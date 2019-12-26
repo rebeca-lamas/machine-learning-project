@@ -1,0 +1,44 @@
+2020_movies,title,box_office,country,genre,director,metascore,production,rating,IMDB_rating,rotten_tomatoes_rating,runtime,type,IMDB_votes
+tt7126948,Wonder Woman 1984,N/A,USA,"Action, Adventure, Fantasy",Patty Jenkins,N/A,Warner Bros. Pictures,N/A,N/A,NA,N/A,movie,N/A
+tt5034838,Godzilla vs. Kong,N/A,USA,"Action, Sci-Fi, Thriller",Adam Wingard,N/A,Warner Bros. Pictures,N/A,N/A,NA,N/A,movie,N/A
+tt5108870,Morbius,N/A,USA,"Action, Adventure, Drama, Horror, Sci-Fi, Thriller",Daniel Espinosa,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
+tt5109280,Raya and the Last Dragon,N/A,USA,"Animation, Adventure, Comedy, Family, Fantasy, Musical","Paul Briggs, Dean Wellins",N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
+tt5113044,Minions: The Rise of Gru,N/A,USA,"Animation, Adventure, Comedy, Family","Kyle Balda, Brad Ableson(co-director)",N/A,Illumination Entertainment,N/A,N/A,NA,N/A,movie,N/A
+tt6587640,Trolls World Tour,N/A,USA,"Animation, Adventure, Comedy, Family, Fantasy, Musical","Walt Dohrn, David P. Smith(co-director)",N/A,N/A,PG,N/A,NA,N/A,movie,N/A
+tt7097896,Venom 2,N/A,USA,"Action, Comedy, Horror, Sci-Fi, Thriller",Andy Serkis,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
+tt5433138,Fast & Furious 9,N/A,USA,"Action, Adventure, Crime, Thriller",Justin Lin,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
+tt2850386,The Croods 2,N/A,USA,"Animation, Adventure, Comedy, Family, Fantasy",Joel Crawford,N/A,20th Century Fox,N/A,N/A,NA,N/A,movie,N/A
+tt2813796,G.I. Joe: Ever Vigilant,N/A,USA,"Action, Adventure, Sci-Fi, Thriller",D.J. Caruso,N/A,Paramount Pictures,N/A,N/A,NA,N/A,movie,N/A
+tt4823776,The SpongeBob Movie: Sponge on the Run,N/A,"South Korea, USA","Animation, Adventure, Comedy, Family",Tim Hill,N/A,Paramount Pictures,N/A,N/A,NA,N/A,movie,N/A
+tt4566758,Mulan,N/A,USA,"Action, Adventure, Drama, Family",Niki Caro,N/A,Walt Disney Pictures,N/A,N/A,NA,N/A,movie,N/A
+tt1502397,Bad Boys for Life,N/A,USA,"Action, Comedy, Crime, Thriller","Adil El Arbi, Bilall Fallah",N/A,Sony Pictures,N/A,N/A,NA,N/A,movie,N/A
+tt8332922,A Quiet Place 2,N/A,USA,"Horror, Thriller",John Krasinski,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
+tt8376234,Peter Rabbit 2: The Runaway,N/A,"Australia, USA","Animation, Adventure, Comedy, Family, Fantasy",Will Gluck,N/A,Sony Pictures,N/A,N/A,NA,N/A,movie,N/A
+tt7991608,Red Notice,N/A,USA,"Action, Adventure, Comedy, Crime, Thriller",Rawson Marshall Thurber,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
+tt1745960,Top Gun: Maverick,N/A,"USA, Hong Kong","Action, Drama",Joseph Kosinski,N/A,Paramount Pictures,N/A,N/A,NA,N/A,movie,N/A
+tt1517268,Barbie,N/A,"United Arab Emirates, USA","Adventure, Comedy, Drama, Fantasy",Greta Gerwig,N/A,Sony Pictures,N/A,N/A,NA,N/A,movie,N/A
+tt7713068,Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn,N/A,USA,"Action, Adventure, Crime",Cathy Yan,N/A,Warner Bros. Pictures,N/A,N/A,NA,N/A,movie,N/A
+tt2382320,No Time to Die,N/A,"UK, USA","Action, Adventure, Thriller",Cary Joji Fukunaga,N/A,MGM,N/A,N/A,NA,N/A,movie,N/A
+tt0870154,Jungle Cruise,N/A,USA,"Adventure, Family, Fantasy",Jaume Collet-Serra,N/A,Walt Disney Pictures,N/A,N/A,NA,N/A,movie,N/A
+tt6673612,Dolittle,N/A,USA,"Adventure, Comedy, Family, Fantasy",Stephen Gaghan,N/A,Universal Pictures,PG,N/A,NA,N/A,movie,N/A
+tt4513678,Ghostbusters: Afterlife,N/A,USA,"Action, Comedy, Drama, Fantasy, Horror, Sci-Fi",Jason Reitman,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
+tt7146812,Onward,N/A,USA,"Animation, Adventure, Comedy, Family, Fantasy",Dan Scanlon,N/A,Disney/Pixar,N/A,N/A,NA,N/A,movie,N/A
+tt2076822,Chaos Walking,N/A,USA,"Adventure, Sci-Fi",Doug Liman,N/A,Lionsgate,N/A,N/A,NA,N/A,movie,N/A
+tt1160419,Dune,N/A,"USA, Hungary, Canada","Adventure, Drama, Sci-Fi",Denis Villeneuve,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
+tt8385148,The Hitman's Wife's Bodyguard,N/A,"USA, UK","Action, Comedy, Thriller",Patrick Hughes,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
+tt5822536,Paddington 3,N/A,"UK, France, USA","Animation, Comedy, Family, Fantasy",N/A,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
+tt7069210,The Conjuring 3,N/A,USA,"Horror, Mystery, Thriller",Michael Chaves,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
+tt6856242,The King's Man,N/A,"UK, USA","Action, Adventure, Comedy",Matthew Vaughn,N/A,20th Century Fox,N/A,N/A,NA,N/A,movie,N/A
+tt9032400,Eternals,N/A,USA,"Action, Adventure, Drama, Fantasy, Sci-Fi",Chloé Zhao,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
+tt1051906,The Invisible Man,N/A,"Australia, USA","Horror, Sci-Fi, Thriller",Leigh Whannell,N/A,Indie Rights,N/A,N/A,NA,N/A,movie,N/A
+tt4682266,The New Mutants,N/A,USA,"Action, Horror, Sci-Fi",Josh Boone,N/A,20th Century Fox,N/A,N/A,NA,N/A,movie,N/A
+tt3794354,Sonic the Hedgehog,N/A,"Canada, Japan, USA","Action, Adventure, Family, Sci-Fi",Jeff Fowler,N/A,Paramount Pictures,N/A,N/A,NA,100 min,movie,N/A
+tt3480822,Black Widow,N/A,USA,"Action, Adventure, Sci-Fi",Cate Shortland,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
+tt6264654,Free Guy,N/A,USA,"Action, Adventure, Comedy, Sci-Fi",Shawn Levy,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
+tt3152592,Scoob!,N/A,USA,"Animation, Adventure, Comedy, Family, Horror, Mystery",Tony Cervone,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
+tt0805647,The Witches,N/A,USA,"Adventure, Comedy, Family, Fantasy, Horror, Mystery",Robert Zemeckis,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
+tt5774060,Underwater,N/A,USA,"Action, Drama, Horror, Mystery, Thriller",William Eubank,N/A,N/A,PG-13,N/A,NA,N/A,movie,N/A
+tt8242084,My Spy,N/A,USA,"Action, Comedy, Family",Peter Segal,N/A,STXfilms,PG-13,N/A,NA,N/A,movie,N/A
+tt1464335,Uncharted,N/A,USA,"Action, Adventure",Travis Knight,N/A,Columbia Pictures,N/A,N/A,NA,N/A,movie,N/A
+tt4712810,Now You See Me 3,N/A,USA,"Crime, Thriller","Jon M. Chu, David Gould",N/A,Lionsgate,N/A,N/A,NA,N/A,movie,N/A
+tt10160976,The Nun 2,N/A,USA,"Horror, Mystery, Thriller",N/A,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
