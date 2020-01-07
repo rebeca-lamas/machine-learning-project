@@ -1,20 +1,20 @@
-id,title,box_office,country,genre,director,metascore,production,rating,IMDB_rating,rotten_tomatoes_rating,runtime,type,IMDB_votes
+title_id,title,box_office,country,genre,director,metascore,production,rating,IMDB_rating,rotten_tomatoes_rating,runtime,type,IMDB_votes
 tt6158254,The Feels,N/A,USA,"Comedy, Drama","Naje Lataillade, Tim Manley",N/A,N/A,N/A,N/A,NA,63 min,movie,N/A
 tt4159698,The Fiancé,N/A,USA,Horror,Mark Allen Michaels,N/A,Firebreathing Films,UNRATED,3.5,NA,79 min,movie,91
 tt4838334,The Fight Within,N/A,USA,"Action, Romance, Sport",Michael William Gordon,N/A,New Life Cinema,PG-13,5.7,40%,94 min,movie,245
 tt3758334,The Final Project,N/A,USA,"Horror, Thriller",Taylor Ri'chard,11,Cavu Pictures,N/A,2.8,38%,82 min,movie,259
 tt5828388,Final Sacrifice,N/A,USA,Drama,Ari Taub,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5936356,The Finders,N/A,USA,Drama,"Tracy Lucca, Anthony Berenato Jr.",N/A,N/A,N/A,N/A,NA,75 min,movie,N/A
-tt2025690,The Finest Hours,"$20,278,493",USA,"Drama, History, Thriller",Craig Gillespie,58,Walt Disney Pictures,PG-13,6.7,64%,117 min,movie,"57,484"
+tt2025690,The Finest Hours,"$20,278,493 ",USA,"Drama, History, Thriller",Craig Gillespie,58,Walt Disney Pictures,PG-13,6.7,64%,117 min,movie,"57,484"
 tt5505986,The First 24,N/A,USA,"Crime, Drama, Mystery",Derek Efrain Villanueva,N/A,N/A,N/A,N/A,NA,50 min,movie,N/A
 tt5563192,The First American,N/A,USA,"Biography, History",Kevin Knoblock,N/A,N/A,Not Rated,7.8,NA,95 min,movie,64
 tt4992054,The First of Our Friends to Get Married,N/A,USA,Comedy,"Julia Kennelly, Charlotte Martin",N/A,N/A,N/A,N/A,NA,93 min,movie,N/A
 tt4694134,The Fisher: Rampage,N/A,USA,"Action, Adventure, Drama",Derek Klanfer,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt7140974,"The Flying Vet of Lafayette, the Story of Dr. Louis Leonpacher",N/A,USA,History,Eric Breaux,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt6014668,The Forbidden Fables,N/A,USA,"Fantasy, Horror, Thriller",Dorian Cleavenger,N/A,N/A,N/A,N/A,NA,95 min,movie,N/A
-tt3387542,The Forest,"$21,818,536",USA,"Horror, Mystery, Thriller",Jason Zada,34,Gramercy Pictures,PG-13,4.8,10%,93 min,movie,"37,474"
+tt3387542,The Forest,"$21,818,536 ",USA,"Horror, Mystery, Thriller",Jason Zada,34,Gramercy Pictures,PG-13,4.8,10%,93 min,movie,"37,474"
 tt5479924,The Forgiven,N/A,USA,Drama,Stonz Walters,N/A,N/A,N/A,N/A,NA,98 min,movie,N/A
-tt4276820,The Founder,"$12,785,093",USA,"Biography, Drama, History",John Lee Hancock,66,The Weinstein Company,PG-13,7.2,81%,115 min,movie,"104,779"
+tt4276820,The Founder,"$12,785,093 ",USA,"Biography, Drama, History",John Lee Hancock,66,The Weinstein Company,PG-13,7.2,81%,115 min,movie,"104,779"
 tt3517044,The Free World,N/A,USA,"Drama, Romance",Jason Lew,46,Revelstoke Productions,R,6.1,47%,100 min,movie,"1,425"
 tt3895248,The Freeze,N/A,USA,"Crime, Mystery, Thriller",Devin Hylton,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt3228196,The Friend Zone,N/A,USA,Comedy,Zachary Bucholtz,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
@@ -26,20 +26,20 @@ tt5615410,The Gamer's Guide to Surviving the Camping Apocalypse,N/A,USA,Comedy,N
 tt5342372,The Gifts,N/A,USA,Family,Randa Wise,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt2833580,The Girl,N/A,USA,"Sci-Fi, Thriller",Jennifer Blanc-Biehn,N/A,N/A,Not Rated,3.5,NA,79 min,movie,170
 tt5034082,The Girl in the Cornfield,N/A,USA,"Horror, Mystery",Ryan Callaway,N/A,N/A,Not Rated,4.2,NA,81 min,movie,171
-tt2387589,The Girl on the Train,"$2,874",USA,Thriller,Larry Brand,N/A,Monterey Media,R,4.3,NA,80 min,movie,849
-tt3631112,The Girl on the Train,"$75,311,445","USA, India","Crime, Drama, Mystery, Thriller",Tate Taylor,48,Universal Pictures,R,6.5,44%,112 min,movie,"156,803"
+tt2387589,The Girl on the Train,"$2,874 ",USA,Thriller,Larry Brand,N/A,Monterey Media,R,4.3,NA,80 min,movie,849
+tt3631112,The Girl on the Train,"$75,311,445 ","USA, India","Crime, Drama, Mystery, Thriller",Tate Taylor,48,Universal Pictures,R,6.5,44%,112 min,movie,"156,803"
 tt7588802,The Gods Obscure,N/A,USA,N/A,Christina Rosati,N/A,N/A,N/A,N/A,NA,75 min,movie,N/A
 tt4184054,The Golden Plates,N/A,USA,Thriller,Tara-Nicole Azarian,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5025254,The Golden Rut,N/A,USA,Comedy,"Josh Ashy Holden, Nick Holden",N/A,N/A,N/A,7.7,NA,80 min,movie,7
 tt2262315,The Good Neighbor,N/A,USA,"Crime, Drama, Horror, Thriller",Kasra Farahani,32,Ball &amp; Chain Productions,Not Rated,6.3,29%,98 min,movie,"14,671"
 tt6102114,The Grandeur of Delusions,N/A,USA,Comedy,"Cassandra Lozano, Mason Rader",N/A,N/A,N/A,N/A,NA,97 min,movie,N/A
-tt4381236,The Greasy Strangler,"$43,580",USA,"Comedy, Horror",Jim Hosking,58,Rook Films,Unrated,5.7,63%,93 min,movie,"5,704"
+tt4381236,The Greasy Strangler,"$43,580 ",USA,"Comedy, Horror",Jim Hosking,58,Rook Films,Unrated,5.7,63%,93 min,movie,"5,704"
 tt4794754,The Great & The Small,N/A,USA,Drama,Dusty Bias,N/A,N/A,N/A,5.4,NA,104 min,movie,234
 tt4550498,The Great American Movie Hustle,N/A,USA,Comedy,Michael Anton,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5354364,The Great Crusader,N/A,USA,Family,Annita Milovich,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt6053696,The Great Divide,N/A,USA,Drama,Nick Patyk,N/A,N/A,N/A,N/A,NA,93 min,movie,N/A
 tt5903680,The Great Guys,N/A,"China, USA","Drama, Family, Sci-Fi",Jin Zhang,N/A,N/A,N/A,5.1,NA,90 min,movie,9
-tt2034800,The Great Wall,"$45,125,480","USA, China, Hong Kong, Australia, Canada","Action, Adventure, Fantasy, Thriller",Yimou Zhang,42,Universal Pictures,PG-13,5.9,36%,103 min,movie,"116,228"
+tt2034800,The Great Wall,"$45,125,480 ","USA, China, Hong Kong, Australia, Canada","Action, Adventure, Fantasy, Thriller",Yimou Zhang,42,Universal Pictures,PG-13,5.9,36%,103 min,movie,"116,228"
 tt5428922,The Green Lady the Emma Green Story,N/A,USA,Thriller,Kenneth l Hobbs,N/A,N/A,N/A,N/A,NA,90 min,movie,N/A
 tt5594956,The Guardian,N/A,USA,"Action, Mystery, Sci-Fi",Logan Taaffe,N/A,Score G Productions,N/A,N/A,100%,N/A,movie,N/A
 tt5198512,The Gulf,N/A,USA,Drama,Richard H. Perry,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
@@ -60,13 +60,13 @@ tt5181502,The Hidden Talent,N/A,USA,"Drama, Romance",Christopher Perkins,N/A,N/A
 tt4776552,"The Highland Park, TX Hockey League",N/A,USA,Comedy,Anthony A. Kung,N/A,N/A,N/A,N/A,NA,90 min,movie,N/A
 tt4212062,The Hike,N/A,USA,Thriller,Dave Fugett,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5724250,The Swap,N/A,USA,"Short, Comedy",Aj Cross,N/A,Marvista Entertainment,N/A,N/A,NA,N/A,movie,N/A
-tt3714720,The Hollars,"$1,016,965",USA,"Comedy, Drama, Romance",John Krasinski,53,Sony Pictures Classics,PG-13,6.5,46%,88 min,movie,"10,570"
+tt3714720,The Hollars,"$1,016,965 ",USA,"Comedy, Drama, Romance",John Krasinski,53,Sony Pictures Classics,PG-13,6.5,46%,88 min,movie,"10,570"
 tt3827684,The Hollow,N/A,USA,"Crime, Drama, Mystery, Thriller",Miles Doleac,N/A,Historia Films,N/A,4.6,NA,128 min,movie,789
 tt2918606,The Hollow Point,N/A,USA,"Crime, Drama, Thriller, Western",Gonzalo López-Gallego,41,Vertical Entertainment,R,5.4,36%,97 min,movie,"4,993"
 tt5241840,The Hollywouldn'ts,N/A,USA,"Comedy, Drama",Darius Stevens Wilhere,N/A,N/A,N/A,8.5,NA,112 min,movie,6
 tt1503790,The Holy Man,N/A,USA,"Action, Drama, Sport",Javier Calderon,N/A,N/A,PG-13,7.8,NA,83 min,movie,6
 tt6203180,The Home Invaders,N/A,USA,"Crime, Drama",Michael Fredianelli,N/A,N/A,UNRATED,N/A,NA,99 min,movie,N/A
-tt5829116,The Homeless Billionaire,"$19,771",USA,Comedy,Fred Manocherian,N/A,N/A,N/A,5.3,NA,88 min,movie,6
+tt5829116,The Homeless Billionaire,"$19,771 ",USA,Comedy,Fred Manocherian,N/A,N/A,N/A,5.3,NA,88 min,movie,6
 tt7654036,The Hook,N/A,USA,N/A,"Curtis Everitt, Matthew R. Horton(co-director)",N/A,N/A,N/A,N/A,NA,90 min,movie,N/A
 tt2678758,The HookUP,N/A,USA,Comedy,Jason Lockhart,N/A,N/A,N/A,N/A,NA,90 min,movie,N/A
 tt5186476,The Horrible Hillbillies,N/A,USA,Horror,Shawn Goremonger,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
@@ -76,18 +76,18 @@ tt4709056,The House on Aspen Street,N/A,USA,Drama,Giavanna Signorelli,N/A,N/A,N/
 tt5203986,The Hudson Tribes,N/A,USA,"Crime, Drama, Romance, Thriller",John Marco Lopez,N/A,N/A,Not Rated,6.6,NA,100 min,movie,23
 tt3108154,The Hunt,N/A,USA,"Action, Drama, Thriller",Peter Rochon Nicholas,N/A,N/A,N/A,4.4,NA,100 min,movie,43
 tt6323218,The Hunted,N/A,USA,N/A,Christopher Pike,N/A,N/A,N/A,N/A,NA,77 min,movie,N/A
-tt2381991,The Huntsman: Winter's War,"$46,445,229","USA, China","Action, Adventure, Drama, Fantasy",Cedric Nicolas-Troyan,35,Universal Pictures,PG-13,6.1,18%,114 min,movie,"90,871"
+tt2381991,The Huntsman: Winter's War,"$46,445,229 ","USA, China","Action, Adventure, Drama, Fantasy",Cedric Nicolas-Troyan,35,Universal Pictures,PG-13,6.1,18%,114 min,movie,"90,871"
 tt1905047,The Icing,N/A,USA,"Action, Crime, Thriller",Derek Braasch,N/A,N/A,N/A,7.2,NA,110 min,movie,9
 tt5107162,The Importance of Doubting Tom,N/A,USA,Romance,Vanessa Roman,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt4798246,The In-Between,N/A,USA,Adventure,Yale Fried,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
-tt1355631,The Infiltrator,"$15,425,870","UK, USA","Biography, Crime, Drama, Thriller",Brad Furman,66,Broad Green Pictures,R,7.0,72%,127 min,movie,"63,365"
-tt4872078,The Intervention,N/A,USA,"Comedy, Drama",Clea DuVall,57,Burn Later Productions,R,6.0,78%,90 min,movie,"5,417"
+tt1355631,The Infiltrator,"$15,425,870 ","UK, USA","Biography, Crime, Drama, Thriller",Brad Furman,66,Broad Green Pictures,R,7,72%,127 min,movie,"63,365"
+tt4872078,The Intervention,N/A,USA,"Comedy, Drama",Clea DuVall,57,Burn Later Productions,R,6,78%,90 min,movie,"5,417"
 tt6044436,The Investigation,N/A,USA,Thriller,Stuart Cooper,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt4082402,The Invisible Worm,N/A,USA,"Drama, Romance",Guillermo Barreira Pérez,N/A,N/A,N/A,N/A,NA,82 min,movie,N/A
 tt5888506,The JUJU Driver,N/A,USA,Comedy,Anthony Singleton,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt3292080,The Journey Is the Destination,N/A,USA,Drama,Bronwen Hughes,N/A,N/A,R,6.3,NA,123 min,movie,371
 tt5712928,The Judgment,N/A,USA,"Short, Drama, Horror",Connor Doyle,N/A,N/A,N/A,N/A,NA,45 min,movie,N/A
-tt3040964,The Jungle Book,"$363,995,937","UK, USA","Adventure, Drama, Family, Fantasy",Jon Favreau,77,Walt Disney Pictures,PG,7.4,95%,106 min,movie,"246,564"
+tt3040964,The Jungle Book,"$363,995,937 ","UK, USA","Adventure, Drama, Family, Fantasy",Jon Favreau,77,Walt Disney Pictures,PG,7.4,95%,106 min,movie,"246,564"
 tt6332084,The Jungle Book: Make-A-Wish,N/A,USA,"Animation, Drama, Musical",Vitaliy Versace,N/A,N/A,TV-PG,5.2,NA,90 min,movie,32
 tt4299398,The Junior Squad,N/A,USA,Action,Anthony Caban,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5533094,The Karma Club,N/A,USA,Drama,Kevin Porter Young,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
@@ -97,7 +97,7 @@ tt4172746,The Kids from 62-F,N/A,USA,"Adventure, Drama, Family, Fantasy, Sci-Fi"
 tt5069090,The Killer Robots! Crash and Burn,N/A,USA,"Action, Adventure, Comedy, Fantasy, Sci-Fi",Sam Gaffin,N/A,N/A,Not Rated,3.5,NA,100 min,movie,125
 tt5225874,The Killer in the House,N/A,USA,"Action, Comedy, Horror",Nicholas Molinari,N/A,N/A,N/A,4.6,NA,97 min,movie,37
 tt5313568,The Killing Hour,N/A,USA,Horror,N/A,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
-tt5164412,The Land,"$17,958",USA,Drama,Steven Caple Jr.,50,Low Spark Films,R,6.4,68%,104 min,movie,"1,540"
+tt5164412,The Land,"$17,958 ",USA,Drama,Steven Caple Jr.,50,Low Spark Films,R,6.4,68%,104 min,movie,"1,540"
 tt3441274,Alleycat,N/A,USA,Drama,"Greg Runnels, Mark Runnels",N/A,N/A,N/A,N/A,NA,85 min,movie,N/A
 tt6522430,The Last Assignment/Ib Ntsais Muang 2,N/A,USA,Action,"Yeng Tha Her, Liam Lauj, Tswb Yang",N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5176494,The Last Beautiful Girl,N/A,USA,"Comedy, Drama, Romance",James Christopher,N/A,N/A,N/A,N/A,NA,88 min,movie,N/A
@@ -105,7 +105,7 @@ tt5895892,The Last Descent,N/A,USA,Drama,Isaac Halasima,N/A,N/A,PG,5.3,NA,105 mi
 tt5688108,The Last Disciples,N/A,USA,Drama,The Isabelle Brothers,N/A,N/A,N/A,N/A,NA,90 min,movie,N/A
 tt8338640,The Last Disciples,N/A,USA,"Action, Comedy, Drama",Jurian Isabelle,N/A,N/A,N/A,N/A,NA,97 min,movie,N/A
 tt3286560,The Last Face,N/A,USA,"Drama, Romance",Sean Penn,16,"Saban Films, Lionsgate",R,4.8,8%,130 min,movie,"4,052"
-tt1273219,The Last Film Festival,"$3,506",USA,Comedy,Linda Yellen,N/A,N/A,R,4.0,NA,90 min,movie,174
+tt1273219,The Last Film Festival,"$3,506 ",USA,Comedy,Linda Yellen,N/A,N/A,R,4,NA,90 min,movie,174
 tt6361186,The Last Fitness Instructor,N/A,USA,"Action, Mystery, Thriller",Michele Williams,N/A,N/A,N/A,N/A,NA,75 min,movie,N/A
 tt4743562,The Last Heist,N/A,USA,"Action, Horror, Thriller",Mike Mendez,28,Benattar/Thomas Productions,TV-MA,3.5,11%,84 min,movie,"2,430"
 tt5181234,The Last Hope,N/A,USA,Adventure,Hussain Ahmed,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
@@ -120,14 +120,14 @@ tt2669286,The Last Tour,N/A,USA,"Action, Adventure",Ryun Yu,N/A,N/A,N/A,N/A,NA,8
 tt3163244,The Last Treasure Hunt,N/A,USA,"Adventure, Drama, Family",Patrick Biesemans,N/A,N/A,Not Rated,4.2,NA,99 min,movie,108
 tt1588878,The Late Bloomer,N/A,USA,"Comedy, Drama, Romance",Kevin Pollak,34,Warner Bros.,R,5.2,NA,90 min,movie,"7,360"
 tt4487910,The Legend of Hip Hop,N/A,USA,N/A,Jibril Haynes,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
-tt0918940,The Legend of Tarzan,"$126,585,313","UK, Canada, USA","Action, Adventure, Drama, Fantasy, Romance",David Yates,44,Lionsgate Pictures,PG-13,6.2,36%,110 min,movie,"154,377"
+tt0918940,The Legend of Tarzan,"$126,585,313 ","UK, Canada, USA","Action, Adventure, Drama, Fantasy, Romance",David Yates,44,Lionsgate Pictures,PG-13,6.2,36%,110 min,movie,"154,377"
 tt5432182,The Legend of Zelda Oblivion Rising,N/A,USA,Fantasy,Scotty Whitehurst,N/A,N/A,N/A,N/A,NA,152 min,movie,N/A
 tt3856300,The Lennon Report,N/A,USA,"Biography, Drama, History",Jeremy Profe,N/A,N/A,PG-13,5.9,57%,87 min,movie,706
 tt4109998,The Lessee,N/A,USA,"Drama, Romance",Teli Share,N/A,N/A,NOT RATED,5.2,NA,96 min,movie,9
 tt3607038,The Life and Death of Julian Finn,N/A,USA,"Short, Drama, Family",Erin Dinsmore,N/A,N/A,N/A,6.4,NA,48 min,movie,10
 tt5119584,The Life of Flowers,N/A,"Bosnia and Herzegovina, USA",N/A,Jimmy Bontatibus,N/A,N/A,N/A,N/A,NA,83 min,movie,N/A
 tt6011096,The Light,N/A,USA,Horror,Jon Gillette,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
-tt2547584,The Light Between Oceans,"$12,533,911","UK, New Zealand, USA, India","Drama, Romance",Derek Cianfrance,60,Dreamworks Pictures,PG-13,7.2,62%,133 min,movie,"48,115"
+tt2547584,The Light Between Oceans,"$12,533,911 ","UK, New Zealand, USA, India","Drama, Romance",Derek Cianfrance,60,Dreamworks Pictures,PG-13,7.2,62%,133 min,movie,"48,115"
 tt5500390,The Light Express,N/A,USA,"Comedy, Fantasy, Musical",Pamela Lockwood,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt4081846,The Lincoln,N/A,USA,Thriller,Stephanie Paris,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt3543976,The Lion,N/A,USA,Drama,Daryl E. Hall,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
@@ -139,13 +139,13 @@ tt4629690,The Lobby,N/A,USA,Drama,Fathia Absie,N/A,N/A,N/A,N/A,NA,56 min,movie,N
 tt1846773,The Local 504,N/A,USA,Action,Renso Amariz,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5198018,The Lone Hunter,N/A,USA,Western,Richard Johanson,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt4328978,The Lone Road,N/A,USA,"Action, Horror, Thriller",Christopher Krueger,N/A,N/A,N/A,N/A,NA,84 min,movie,N/A
-tt3261182,The Lonely Italian,N/A,USA,"Documentary, Comedy",Lee Farber,N/A,N/A,N/A,8.0,NA,83 min,movie,16
-tt4831810,The Persian Connection,N/A,USA,"Action, Crime, Mystery, Thriller",Daniel Grove,49,Samuel Goldwyn Films,N/A,5.0,63%,103 min,movie,255
+tt3261182,The Lonely Italian,N/A,USA,"Documentary, Comedy",Lee Farber,N/A,N/A,N/A,8,NA,83 min,movie,16
+tt4831810,The Persian Connection,N/A,USA,"Action, Crime, Mystery, Thriller",Daniel Grove,49,Samuel Goldwyn Films,N/A,5,63%,103 min,movie,255
 tt5043430,The Lonesome Curse,N/A,USA,Horror,Joshua Randell,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5903964,The Long Count Teaser,N/A,USA,"History, Sport",Chris Tasara,N/A,N/A,N/A,9.2,NA,N/A,movie,5
-tt1212428,The Lost City of Z,"$8,554,554",USA,"Biography, Drama, History",James Gray,78,Amazon Studios/Bleecker Street Media,PG-13,6.6,86%,141 min,movie,"69,931"
+tt1212428,The Lost City of Z,"$8,554,554 ",USA,"Biography, Drama, History",James Gray,78,Amazon Studios/Bleecker Street Media,PG-13,6.6,86%,141 min,movie,"69,931"
 tt2368606,The Lost Tree,N/A,USA,"Drama, Horror, Thriller",Brian A. Metcalf,N/A,N/A,N/A,7.8,NA,88 min,movie,70
-tt3908142,The Love Witch,"$226,223",USA,"Comedy, Horror, Romance, Thriller",Anna Biller,82,Oscilloscope Laboratories,Unrated,6.2,95%,120 min,movie,"10,464"
+tt3908142,The Love Witch,"$226,223 ",USA,"Comedy, Horror, Romance, Thriller",Anna Biller,82,Oscilloscope Laboratories,Unrated,6.2,95%,120 min,movie,"10,464"
 tt5796986,The Lover,N/A,USA,"Drama, Romance",Mahmoud Shoolizadeh,N/A,N/A,N/A,4.3,NA,60 min,movie,7
 tt4724542,The Lunatic'ler,N/A,USA,Horror,Pete Jacelone,N/A,N/A,N/A,N/A,NA,88 min,movie,N/A
 tt5371404,The M.F.U.T.,N/A,USA,Drama,N/A,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
@@ -153,10 +153,10 @@ tt5349722,The Maestro,N/A,USA,"Comedy, Drama",David Lunday,N/A,N/A,N/A,N/A,NA,86
 tt1578270,The Magic Stone,N/A,USA,Thriller,Edgar Michael Bravo,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt6175856,The Magnanimous MOOve,N/A,USA,Animation,N/A,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5739784,The Magnificent Kaaboom!!! VHS,N/A,USA,Animation,Zachary Whitmore,N/A,N/A,N/A,N/A,NA,46 min,movie,N/A
-tt2404435,The Magnificent Seven,"$93,381,044",USA,"Action, Adventure, Western",Antoine Fuqua,54,Sony Pictures,PG-13,6.9,63%,132 min,movie,"173,387"
-tt3079222,The Man Who Was Thursday,N/A,"USA, Hungary, Italy, Romania","Mystery, Thriller",Balazs Juszt,N/A,Moviebar Productions,N/A,5.0,NA,95 min,movie,212
+tt2404435,The Magnificent Seven,"$93,381,044 ",USA,"Action, Adventure, Western",Antoine Fuqua,54,Sony Pictures,PG-13,6.9,63%,132 min,movie,"173,387"
+tt3079222,The Man Who Was Thursday,N/A,"USA, Hungary, Italy, Romania","Mystery, Thriller",Balazs Juszt,N/A,Moviebar Productions,N/A,5,NA,95 min,movie,212
 tt5355706,The Man from Ruin,N/A,USA,"Drama, Sci-Fi",Joel Shelton,N/A,N/A,N/A,N/A,NA,88 min,movie,N/A
-tt0932667,The Man in the Silo,N/A,USA,Drama,Phil Donlon,N/A,N/A,N/A,6.0,NA,55 min,movie,109
+tt0932667,The Man in the Silo,N/A,USA,Drama,Phil Donlon,N/A,N/A,N/A,6,NA,55 min,movie,109
 tt6029056,The Man with Elephant Hands,N/A,USA,"Comedy, Drama, Romance",Banks Helfrich,N/A,N/A,N/A,N/A,NA,81 min,movie,N/A
 tt3734354,The Cleanse,N/A,"Canada, USA","Comedy, Drama, Fantasy, Horror",Bobby Miller,58,Bron Studios,R,5.4,82%,81 min,movie,"1,334"
 tt4269746,The Matchbreaker,N/A,USA,"Comedy, Romance",Caleb Vetter,N/A,Vetter Brothers Filmworks,PG,5.6,NA,94 min,movie,"2,415"
@@ -165,7 +165,7 @@ tt5680948,The Meet,N/A,USA,"Short, Comedy",Diana Trejo,N/A,N/A,N/A,N/A,NA,N/A,mo
 tt5886412,The Memestar Chronicles Big Screen Film,N/A,USA,Comedy,Kevin Verboczki,N/A,N/A,N/A,N/A,NA,94 min,movie,N/A
 tt5812360,The Mermaid Princess,N/A,USA,Animation,Adam Qiu,N/A,N/A,N/A,4.4,NA,77 min,movie,71
 tt4088550,The Merry Maids of Madness,N/A,USA,"Comedy, Fantasy",Phillip Hughes,N/A,N/A,N/A,N/A,NA,99 min,movie,N/A
-tt3685586,The Midnight Man,N/A,USA,"Comedy, Crime, Thriller",D.C. Hamilton,N/A,Midnight Man Film,Not Rated,5.0,NA,105 min,movie,698
+tt3685586,The Midnight Man,N/A,USA,"Comedy, Crime, Thriller",D.C. Hamilton,N/A,Midnight Man Film,Not Rated,5,NA,105 min,movie,698
 tt5629964,The Midnight Man,N/A,"USA, Canada",Horror,Travis Zariwny,N/A,Midnight Man Film,Not Rated,4.8,NA,95 min,movie,"2,717"
 tt5768404,The Midnight Show,N/A,USA,Horror,Jason Hawkins,N/A,N/A,N/A,N/A,NA,96 min,movie,N/A
 tt2938066,The Midnighters,N/A,USA,"Crime, Drama, Thriller",Julian Fort,N/A,The Midnighters,N/A,7.4,NA,86 min,movie,76
@@ -180,7 +180,7 @@ tt6034258,The NBL,N/A,USA,Comedy,Micah Minor,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5741952,The New Doctrine,N/A,USA,"Comedy, Drama",Kitsann Means,N/A,N/A,N/A,N/A,NA,112 min,movie,N/A
 tt5057626,The New York Butcher,N/A,USA,"Crime, Horror, Mystery",Sean Weathers,N/A,N/A,N/A,5.6,NA,60 min,movie,16
 tt4457852,Untitled Brody Gusar Project,N/A,USA,Comedy,Brody Gusar,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
-tt3799694,The Nice Guys,"$32,261,515",USA,"Action, Comedy, Crime, Mystery, Thriller",Shane Black,70,Warner Bros. Pictures,R,7.4,93%,116 min,movie,"251,644"
+tt3799694,The Nice Guys,"$32,261,515 ",USA,"Action, Comedy, Crime, Mystery, Thriller",Shane Black,70,Warner Bros. Pictures,R,7.4,93%,116 min,movie,"251,644"
 tt5458888,The Night Shift,N/A,USA,Horror,Massimiliano Cerchi,N/A,N/A,N/A,2.9,NA,63 min,movie,95
 tt5459412,The Night Shift: Book 2,N/A,USA,Action,Kelly Weaver,N/A,N/A,N/A,N/A,NA,160 min,movie,N/A
 tt1821657,The Night Stalker,N/A,USA,"Crime, Drama, Mystery, Thriller",Megan Griffiths,N/A,N/A,TV-14,5.9,100%,89 min,movie,547
@@ -201,7 +201,7 @@ tt6074744,The Other Side of Love,N/A,USA,Drama,Tyrell Jason,N/A,N/A,N/A,N/A,NA,N
 tt3702652,The Other Side of the Door,N/A,"UK, USA, India",Horror,Johannes Roberts,41,N/A,R,5.3,35%,96 min,movie,"16,280"
 tt2260254,The Other Side of the Mirror,N/A,USA,"Drama, Fantasy, History",Zach Hamer,N/A,N/A,N/A,2.3,NA,123 min,movie,580
 tt2409518,The Otherworld,N/A,USA,Fantasy,Gisela Pereira,N/A,N/A,N/A,4.2,NA,90 min,movie,19
-tt5934788,The Ouija Possession,N/A,USA,Horror,Luis Carvalho,N/A,N/A,N/A,2.0,NA,95 min,movie,109
+tt5934788,The Ouija Possession,N/A,USA,Horror,Luis Carvalho,N/A,N/A,N/A,2,NA,95 min,movie,109
 tt6193466,The Over-Mountain Men: The Price of Freedom,N/A,USA,Drama,Jonathan Kammeraad,N/A,N/A,N/A,N/A,NA,107 min,movie,N/A
 tt5594656,The Painter,N/A,USA,"Drama, Fantasy, Horror",Roger Floyd,N/A,N/A,N/A,N/A,NA,59 min,movie,N/A
 tt7007692,The Panda Who Oinked,N/A,"USA, China","Animation, Biography, Comedy, Drama, Mystery","Randy Harper, Jeff Panda",N/A,N/A,N/A,N/A,NA,51 min,movie,N/A
@@ -213,7 +213,7 @@ tt4577204,The Passing Season,N/A,USA,Drama,Gabriel Long,N/A,N/A,N/A,7.5,NA,75 mi
 tt3610326,The Pastor,N/A,USA,Action,Deborah Goodwin,N/A,N/A,N/A,6.7,NA,N/A,movie,18
 tt5449396,Pastor Daughters,N/A,USA,Drama,Sydnee Simone,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt6026954,The Perfect Host,N/A,USA,Fantasy,Logan Cross,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
-tt4871980,The Perfect Match,"$7,428,856",USA,"Comedy, Romance",Bille Woodruff,41,Jorva Entertainment Productions,R,4.9,25%,96 min,movie,"3,144"
+tt4871980,The Perfect Match,"$7,428,856 ",USA,"Comedy, Romance",Bille Woodruff,41,Jorva Entertainment Productions,R,4.9,25%,96 min,movie,"3,144"
 tt4774192,The Perfect Plan,N/A,USA,"Short, Action",Siena Sivrican,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt4616250,The Perfect Weapon,N/A,"USA, Spain, Sweden","Action, Drama, Sci-Fi, Thriller",Titus Paar,N/A,N/A,Not Rated,3.1,NA,88 min,movie,"1,323"
 tt3885524,The Phenom,N/A,USA,"Drama, Sport",Noah Buschel,66,Bron Capital Partners,Not Rated,5.2,79%,88 min,movie,"1,992"
@@ -224,9 +224,9 @@ tt5459534,The Pocketeers,N/A,USA,"Comedy, Crime",Tyler Cornack,N/A,N/A,N/A,N/A,N
 tt3697398,The Possession Experiment,N/A,USA,"Horror, Thriller",Scott B. Hansen,N/A,Digital Thunderdome,Not Rated,3.5,20%,84 min,movie,687
 tt4853562,The Potential for Beauty,N/A,USA,Drama,Marc Petzke,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5159200,The Prodigal Song,N/A,USA,"Comedy, Drama, Family",Julius Harper Jr.,N/A,N/A,N/A,N/A,NA,120 min,movie,N/A
-tt4776998,The Promise,"$8,186,236","Spain, USA","Action, Adventure, Drama, History, War",Terry George,49,Open Road Films,PG-13,5.9,51%,133 min,movie,"165,403"
+tt4776998,The Promise,"$8,186,236 ","Spain, USA","Action, Adventure, Drama, History, War",Terry George,49,Open Road Films,PG-13,5.9,51%,133 min,movie,"165,403"
 tt5941526,The Pupil,N/A,USA,Drama,Alan Thornburg,N/A,N/A,N/A,N/A,NA,71 min,movie,N/A
-tt4094724,The Purge: Election Year,N/A,"USA, Japan","Action, Horror, Sci-Fi, Thriller",James DeMonaco,55,Universal Pictures,R,6.0,55%,108 min,movie,"83,224"
+tt4094724,The Purge: Election Year,N/A,"USA, Japan","Action, Horror, Sci-Fi, Thriller",James DeMonaco,55,Universal Pictures,R,6,55%,108 min,movie,"83,224"
 tt4953610,Home Video,N/A,USA,"Drama, Horror, Mystery",Emmanuel Sandoval,N/A,N/A,N/A,4.6,NA,80 min,movie,376
 tt6120312,The Race,N/A,USA,Comedy,Dave Rodkey,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt2464690,The Rack Pack,N/A,"USA, UK","Comedy, Drama, Sport",Brian Welsh,N/A,Zeppotron,TV-G,7.1,NA,87 min,movie,"1,082"
@@ -266,7 +266,7 @@ tt2288107,The Screenwriters,N/A,USA,Drama,Peter Edward Forbes,N/A,N/A,N/A,N/A,NA
 tt5639438,The Second Shepherds' Play,N/A,USA,Comedy,Douglas Morse,N/A,N/A,N/A,N/A,NA,46 min,movie,N/A
 tt5246192,The Secret Garden,N/A,USA,Action,Aj Cross,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5448770,The Secret Garden,N/A,USA,"Action, Mystery, Thriller",N/A,N/A,N/A,N/A,N/A,NA,81 min,movie,N/A
-tt2709768,The Secret Life of Pets,"$368,305,960","USA, France, Japan","Animation, Adventure, Comedy, Family","Chris Renaud, Yarrow Cheney(co-director)",61,Universal Pictures,PG,6.5,73%,87 min,movie,"170,815"
+tt2709768,The Secret Life of Pets,"$368,305,960 ","USA, France, Japan","Animation, Adventure, Comedy, Family","Chris Renaud, Yarrow Cheney(co-director)",61,Universal Pictures,PG,6.5,73%,87 min,movie,"170,815"
 tt4276206,The Secrets of Emily Blair,N/A,USA,"Horror, Thriller",Joseph P. Genier,N/A,N/A,N/A,4.1,NA,95 min,movie,"1,266"
 tt3186552,The Sector,N/A,USA,Sci-Fi,Josh Ridgway,N/A,Copper Kid Productions,Not Rated,2.9,NA,86 min,movie,213
 tt5215566,The Seeker,N/A,USA,"Drama, Music",Jeff D. Johnson,N/A,N/A,N/A,8.2,NA,60 min,movie,88
@@ -275,7 +275,7 @@ tt5489010,The Set Up,N/A,USA,Action,Joseph Kandov,N/A,N/A,N/A,N/A,NA,N/A,movie,N
 tt4357714,The Sex Trip,N/A,USA,"Comedy, Fantasy",Anthony G. Cohen,N/A,Ammo Content,N/A,3.9,NA,90 min,movie,280
 tt5198702,The Shadow Zone,N/A,USA,Sci-Fi,James Ian Mair,N/A,N/A,NOT RATED,N/A,NA,N/A,movie,N/A
 tt5511826,The Shadow in the Bed,N/A,USA,Horror,Hector Pasillas,N/A,N/A,N/A,N/A,NA,98 min,movie,N/A
-tt4052882,The Shallows,"$55,121,623",USA,"Drama, Horror, Thriller",Jaume Collet-Serra,59,Ombra Films,PG-13,6.3,79%,86 min,movie,"111,677"
+tt4052882,The Shallows,"$55,121,623 ",USA,"Drama, Horror, Thriller",Jaume Collet-Serra,59,Ombra Films,PG-13,6.3,79%,86 min,movie,"111,677"
 tt4370460,The Shell Collector,N/A,"Japan, USA",Drama,Yoshifumi Tsubota,N/A,N/A,N/A,6.4,NA,87 min,movie,34
 tt6263600,The Shepherd's Cup,N/A,USA,Thriller,N/A,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt4599588,The Shickles,N/A,USA,Comedy,Donna Trousdale,N/A,Flower of Life Films,N/A,N/A,NA,N/A,movie,N/A
@@ -293,7 +293,7 @@ tt4549224,The Standoff,N/A,USA,Comedy,Ilyssa Goodman,N/A,First Point Entertainme
 tt4935002,The Stepchild,N/A,USA,Drama,Chijindu Kelechi Eke,N/A,N/A,N/A,N/A,NA,85 min,movie,N/A
 tt4596160,The Stop Hit,N/A,USA,Action,N/A,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5728374,Give Me My Baby,N/A,USA,Thriller,Danny J. Boyle,N/A,N/A,TV-14,4.7,NA,84 min,movie,129
-tt4423034,The Stray,N/A,USA,"Horror, Thriller",Cam Clark,N/A,N/A,N/A,9.0,NA,N/A,movie,5
+tt4423034,The Stray,N/A,USA,"Horror, Thriller",Cam Clark,N/A,N/A,N/A,9,NA,N/A,movie,5
 tt3326350,The Strike,N/A,USA,"Comedy, Crime, Drama","Guillermo Iván, Ben Loggins(co-director)",N/A,N/A,TV-MA,6.1,NA,90 min,movie,94
 tt4776114,The Substitute Spy,N/A,USA,"Comedy, Family",Greg Galloway,N/A,N/A,N/A,8.1,NA,N/A,movie,9
 tt5485464,The Sufferers,N/A,USA,"Horror, Thriller",Jon Beach,N/A,N/A,N/A,N/A,NA,75 min,movie,N/A
@@ -304,7 +304,7 @@ tt5941158,The System,N/A,USA,"Comedy, Drama",Robert Keith Kelly,N/A,N/A,N/A,N/A,
 tt4198438,The System Is Broken,N/A,USA,Drama,Ignatius Lin,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt3693642,The Taker,N/A,USA,Horror,"Demetrius Navarro, Enrico Natale",N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5864130,The Tale of a Pusher,N/A,N/A,"Action, Drama",Ryan Rachall,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
-tt7923612,The Tayo Movie: Mission Ace,N/A,USA,Animation,Ryu Jung-woo,N/A,N/A,N/A,5.0,NA,47 min,movie,18
+tt7923612,The Tayo Movie: Mission Ace,N/A,USA,Animation,Ryu Jung-woo,N/A,N/A,N/A,5,NA,47 min,movie,18
 tt5817352,The Teen Tech Team,N/A,USA,Adventure,Timothy Ingles,N/A,N/A,N/A,N/A,NA,120 min,movie,N/A
 tt2087989,The Tell-Tale Heart,N/A,USA,Thriller,John La Tier,N/A,N/A,Not Rated,3.5,NA,81 min,movie,221
 tt6140562,The Temple II Birth into Dakness Full movie,N/A,USA,"Action, Fantasy, Horror",Michele Plunkett,N/A,N/A,N/A,N/A,NA,51 min,movie,N/A
@@ -313,12 +313,12 @@ tt4892886,The Third Wheel,N/A,USA,Comedy,N/A,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt3893280,The Ticket,N/A,USA,Drama,Ido Fluk,52,Rush River Entertainment,Not Rated,5.3,50%,97 min,movie,"2,423"
 tt5994124,The Ticking Time-Bomb,N/A,USA,"Comedy, Drama, Romance",Jacob Baldy,N/A,N/A,NOT RATED,N/A,NA,N/A,movie,N/A
 tt7161308,The Tickler Horror Film,N/A,USA,Horror,Moe McCoy,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
-tt3853830,The Tiger Hunter,"$39,553",USA,Comedy,Lena Khan,66,Sneaky Sneaky Films,Not Rated,5.8,78%,94 min,movie,621
+tt3853830,The Tiger Hunter,"$39,553 ",USA,Comedy,Lena Khan,66,Sneaky Sneaky Films,Not Rated,5.8,78%,94 min,movie,621
 tt5171494,The Tombstone,N/A,USA,Horror,"Billy Holden, Brandyn Cross",N/A,N/A,N/A,N/A,NA,96 min,movie,N/A
 tt1615150,The Tommy Movie,N/A,USA,"Comedy, Drama",Josh Hodgins,N/A,N/A,N/A,N/A,NA,90 min,movie,N/A
 tt5753808,The Town That Wore Brainwashing Granny Hats,N/A,USA,"Comedy, Mystery, Sci-Fi","John Dustman, Allison Geary, Connor Geary, Jillian Korey, Catie Mitchell, Kayli Ross, Ben Senior",N/A,N/A,N/A,N/A,NA,46 min,movie,N/A
 tt4280532,The Trailer Bar Book Club Movie,N/A,USA,N/A,Bryan Lassiter,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
-tt5039088,The Transfiguration,"$21,926",USA,"Drama, Horror",Michael O'Shea,65,Transfiguration Prods.,Not Rated,6.0,85%,97 min,movie,"3,122"
+tt5039088,The Transfiguration,"$21,926 ",USA,"Drama, Horror",Michael O'Shea,65,Transfiguration Prods.,Not Rated,6,85%,97 min,movie,"3,122"
 tt5538098,The Traveling,N/A,USA,Sci-Fi,Joe Lujan,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt3278988,The Triangle,N/A,USA,"Horror, Mystery","David Blair, Nathaniel Peterson, Adam Pitman, Andrew Rizzo, Adam Stilwell",N/A,Firework Brain,Not Rated,4.9,NA,94 min,movie,571
 tt3953186,The Tribe,N/A,USA,"Drama, Sci-Fi, Thriller",Roxy Shih,N/A,N/A,N/A,4.6,NA,97 min,movie,336
@@ -338,7 +338,7 @@ tt5803330,The Unknown Battle against Mediocrity,N/A,"Netherlands, USA, Germany, 
 tt0906327,The Unlikely's,N/A,USA,Comedy,Nick G. Miller,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt3380800,The Unquenchable Thirst for Beau Nerjoose,N/A,USA,"Adventure, Comedy, Musical",Johnny Buell,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5530662,The Unseen,N/A,USA,Crime,N/A,N/A,Monarch Home Entertainment,N/A,N/A,100%,N/A,movie,N/A
-tt4781446,The Unwilling,N/A,USA,"Horror, Thriller",Jonathan Heap,N/A,N/A,TV-MA,4.0,NA,84 min,movie,281
+tt4781446,The Unwilling,N/A,USA,"Horror, Thriller",Jonathan Heap,N/A,N/A,TV-MA,4,NA,84 min,movie,281
 tt4530686,The Usuals: Or (The Helpfulness of Others and How to Use It),N/A,USA,"Comedy, Drama",C.D. Rivera,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt3149206,The Vanished,N/A,USA,"Drama, Sci-Fi, Thriller",Cristian Luna,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt1161457,Vanquisher,N/A,USA,"Action, Adventure, Sci-Fi, Thriller",Dean Gold,N/A,Magnet Releasing,N/A,4.3,NA,90 min,movie,144
@@ -347,7 +347,7 @@ tt4531984,The Very Private Work of Sister K,N/A,USA,Drama,Johan Liedgren,N/A,N/A
 tt4083052,The Vessel,N/A,"Puerto Rico, USA",Drama,Julio Quintana,67,New Territory Pictures,PG-13,5.3,67%,86 min,movie,980
 tt5780306,The Victims,N/A,USA,Action,"Del Weston, Nabi Zee",N/A,N/A,N/A,N/A,NA,93 min,movie,N/A
 tt5051150,The Videoblogs,N/A,USA,Drama,Michael DiBiasio,N/A,N/A,Not Rated,5.7,NA,82 min,movie,57
-tt5143968,The View from Tall,N/A,USA,Drama,"Caitlin Parrish(co-director), Erica Weiss(co-director)",N/A,N/A,N/A,7.0,NA,87 min,movie,21
+tt5143968,The View from Tall,N/A,USA,Drama,"Caitlin Parrish(co-director), Erica Weiss(co-director)",N/A,N/A,N/A,7,NA,87 min,movie,21
 tt4089840,The Vigilante,N/A,USA,Drama,"Jordan Leach, David Zuckerman",N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt4893650,The Visitors,N/A,USA,"Horror, Sci-Fi",Jeremy Hull,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5460554,The Vixen of Vengeance,N/A,USA,Thriller,Patrick Pena,N/A,N/A,N/A,N/A,NA,61 min,movie,N/A
@@ -382,7 +382,7 @@ tt5602138,The Years After,N/A,USA,Adventure,Daniel K. Bower,N/A,N/A,N/A,N/A,NA,4
 tt5247498,The Yellow Wallpaper,N/A,USA,Drama,Kourosh Ahari,N/A,N/A,N/A,N/A,NA,80 min,movie,N/A
 tt4836300,The Yoga Sutra,N/A,"Spain, USA, France, Italy, Japan",Drama,Zorie Barber,N/A,N/A,N/A,N/A,NA,110 min,movie,N/A
 tt1002563,The Young Messiah,N/A,USA,"Drama, Fantasy",Cyrus Nowrasteh,33,Focus Features,PG-13,5.6,47%,111 min,movie,"2,932"
-tt4360458,The Z Effect,N/A,USA,"Horror, Thriller",Scott Schlueter,N/A,N/A,N/A,3.0,NA,87 min,movie,6
+tt4360458,The Z Effect,N/A,USA,"Horror, Thriller",Scott Schlueter,N/A,N/A,N/A,3,NA,87 min,movie,6
 tt3355014,The Zohar Secret,N/A,"Israel, USA, Ukraine, Russia, Spain","Comedy, Drama, Sci-Fi",Vladek Zankovsky,N/A,N/A,PG,6.7,NA,124 min,movie,"2,391"
 tt4136438,Theatre and Me's the Bully,N/A,USA,Drama,Marcus A Siler,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5553244,Then There Was You,N/A,USA,"Comedy, Drama, Music",Adewale Bajere,N/A,N/A,N/A,N/A,NA,84 min,movie,N/A
@@ -420,7 +420,7 @@ tt3399078,Time Rush,N/A,USA,Action,Daniel Zirilli,N/A,Stunt Power Films,Not Rate
 tt4967638,Time Toupee,N/A,USA,Action,James Amthor,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt4815862,Time Toys,N/A,USA,"Family, Sci-Fi",Mark Rosman,N/A,N/A,Not Rated,4.8,NA,87 min,movie,177
 tt4731476,Time Wounds All,N/A,USA,"Horror, Thriller",Nicholas Boise,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
-tt3836888,Timeless,N/A,"Germany, USA","Comedy, Drama, History, Sci-Fi",Alexander Tuschinski,N/A,N/A,N/A,5.0,NA,108 min,movie,36
+tt3836888,Timeless,N/A,"Germany, USA","Comedy, Drama, History, Sci-Fi",Alexander Tuschinski,N/A,N/A,N/A,5,NA,108 min,movie,36
 tt5562360,Timepiece,N/A,USA,Adventure,Pierre Chemaly,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt4823382,Tiny Dancers,N/A,USA,Comedy,Patrick Russell,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt3833858,Tiramisu for Two,N/A,"USA, Italy","Adventure, Comedy, Mystery",Sergio Carvajal,N/A,N/A,N/A,N/A,NA,103 min,movie,N/A
@@ -436,7 +436,7 @@ tt2471266,Together Alone,N/A,USA,Romance,Ryan Droege,N/A,N/A,N/A,N/A,NA,N/A,movi
 tt3495832,Tokal,N/A,"Kazakhstan, USA",Drama,Eugine Cheltsoff,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt3479072,Tom's Dilemma,N/A,USA,Drama,Miguel Gluckstern,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5317942,Tombstones of the Blind Dead,N/A,USA,"Horror, Western","Chris Mackey, Joe Pinkerton, Laume Conroy(co-director), Ron Ford(co-director)",N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
-tt3467914,Tommy's Honour,"$561,963","UK, USA","Biography, Drama, Romance, Sport",Jason Connery,56,Roadside Attractions,PG,6.3,66%,112 min,movie,899
+tt3467914,Tommy's Honour,"$561,963 ","UK, USA","Biography, Drama, Romance, Sport",Jason Connery,56,Roadside Attractions,PG,6.3,66%,112 min,movie,899
 tt4800294,Tomorrow,N/A,USA,Thriller,Dakota Gamble,N/A,N/A,N/A,N/A,NA,140 min,movie,N/A
 tt3770750,Tomorrow Ever After,N/A,USA,"Comedy, Sci-Fi",Ela Thier,N/A,N/A,N/A,8.2,NA,95 min,movie,69
 tt5829548,Tomorrow's End,N/A,USA,Drama,Chris Lanehart,N/A,N/A,N/A,N/A,NA,95 min,movie,N/A
@@ -476,8 +476,8 @@ tt1712261,Triple 9,N/A,USA,"Crime, Thriller",John Hillcoat,52,Open Road Films,R,
 tt5807366,Triple Feature,N/A,USA,"Comedy, Crime, Drama",Jørgen Pedersen,N/A,N/A,N/A,N/A,NA,62 min,movie,N/A
 tt4535594,Trippin' to the Altar,N/A,USA,Comedy,David N. Reyes,N/A,N/A,N/A,7.6,NA,94 min,movie,9
 tt4011018,Trivia Night,N/A,USA,Comedy,Robert Gregson,N/A,N/A,N/A,7.5,NA,87 min,movie,20
-tt1679335,Trolls,"$153,694,574",USA,"Animation, Adventure, Comedy, Family, Fantasy, Musical","Mike Mitchell, Walt Dohrn(co-director)",56,DreamWorks Animation,PG,6.5,76%,92 min,movie,"65,283"
-tt2939450,Within,N/A,USA,Thriller,Ken Cosentino,N/A,N/A,N/A,6.0,NA,N/A,movie,5
+tt1679335,Trolls,"$153,694,574 ",USA,"Animation, Adventure, Comedy, Family, Fantasy, Musical","Mike Mitchell, Walt Dohrn(co-director)",56,DreamWorks Animation,PG,6.5,76%,92 min,movie,"65,283"
+tt2939450,Within,N/A,USA,Thriller,Ken Cosentino,N/A,N/A,N/A,6,NA,N/A,movie,5
 tt4419472,Trophy Husband,N/A,USA,"Comedy, Drama","Nat Bennett, Sam Rosen",N/A,N/A,N/A,N/A,NA,88 min,movie,N/A
 tt1901024,Dark Crimes,N/A,"UK, Poland, USA","Crime, Drama, Thriller",Alexandros Avranas,24,Saban Films,R,5.1,0%,92 min,movie,"14,635"
 tt1542768,True Memoirs of an International Assassin,N/A,USA,"Action, Comedy, Crime",Jeff Wadlow,37,Netflix,TV-14,5.9,0%,98 min,movie,"18,077"
@@ -486,7 +486,7 @@ tt3969208,Trust Fund,N/A,USA,Drama,Sandra L. Martin,N/A,Transatlantic Films,PG,6
 tt5710624,"Trust, Prey, Hope",N/A,USA,Drama,Elizabeth Blake-Thomas,N/A,N/A,N/A,N/A,NA,85 min,movie,N/A
 tt2780498,Tulasi Dalam,N/A,USA,Thriller,Patnaik R.P.,N/A,N/A,N/A,6.6,NA,N/A,movie,5
 tt5592256,Turbulence,N/A,USA,"Action, Drama, Thriller",Nadeem Soumah,N/A,N/A,TV-14,5.1,NA,120 min,movie,324
-tt6244728,Turn Left Turn Right,N/A,"USA, Cambodia, South Korea",N/A,Douglas Seok,N/A,N/A,N/A,7.0,NA,N/A,movie,24
+tt6244728,Turn Left Turn Right,N/A,"USA, Cambodia, South Korea",N/A,Douglas Seok,N/A,N/A,N/A,7,NA,N/A,movie,24
 tt1476425,Turnabout,N/A,USA,"Drama, Mystery, Thriller",E.B. Hughes,N/A,N/A,N/A,5.3,NA,90 min,movie,"1,791"
 tt5575342,Twinkle Toes Lights Up New York,N/A,USA,"Animation, Adventure, Family, Musical",Mark Aguilar,N/A,N/A,Not Rated,5.8,NA,71 min,movie,8
 tt5161012,Two Bellmen Two,N/A,USA,"Short, Action, Comedy",Daniel Malakai Cabrera,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
@@ -506,7 +506,7 @@ tt7215516,Under OverPasses,N/A,USA,N/A,Ben Sliwa,N/A,N/A,N/A,N/A,NA,N/A,movie,N/
 tt5516690,Under Pressure,N/A,USA,Drama,Trez Gee,N/A,N/A,N/A,N/A,NA,68 min,movie,N/A
 tt5797908,Undercover Princesses,N/A,USA,Family,Tyler Maddox-Simms,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt4317320,Underdoges,N/A,USA,Comedy,Junson Chan,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
-tt3717252,Underworld: Blood Wars,"$30,348,260",USA,"Action, Adventure, Drama, Fantasy, Horror, Sci-Fi, War",Anna Foerster,23,Lakeshore Entertainment,R,5.8,19%,91 min,movie,"65,078"
+tt3717252,Underworld: Blood Wars,"$30,348,260 ",USA,"Action, Adventure, Drama, Fantasy, Horror, Sci-Fi, War",Anna Foerster,23,Lakeshore Entertainment,R,5.8,19%,91 min,movie,"65,078"
 tt5739900,Undeserved,N/A,USA,Drama,Marc Steele,N/A,N/A,N/A,5.4,NA,90 min,movie,89
 tt3172126,Undrafted,N/A,USA,"Comedy, Drama, Sport",Joseph Mazzello,N/A,Dead Fish Films,Unrated,6.4,25%,90 min,movie,"1,051"
 tt5510846,Unforgivable Sin,N/A,USA,"Short, Thriller",Chloe Traicos,N/A,N/A,N/A,N/A,NA,7 min,movie,N/A
@@ -561,11 +561,11 @@ tt4338322,Wake Up America!,N/A,USA,Comedy,"Rachel Avery, Josh Covitt",N/A,N/A,N/
 tt5195412,Wakefield,N/A,USA,Drama,Robin Swicord,62,IFC Films,R,6.3,74%,106 min,movie,"13,928"
 tt5252026,Walk Together,N/A,USA,Romance,William Hadden,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5676184,Walk on Water Family Reunion,N/A,USA,Comedy,Rich Nation,N/A,N/A,N/A,N/A,NA,103 min,movie,N/A
-tt2005151,War Dogs,"$43,017,433","USA, Cambodia","Biography, Comedy, Crime, Drama, War",Todd Phillips,57,Warner Bros. Pictures,R,7.1,61%,114 min,movie,"161,293"
+tt2005151,War Dogs,"$43,017,433 ","USA, Cambodia","Biography, Comedy, Crime, Drama, War",Todd Phillips,57,Warner Bros. Pictures,R,7.1,61%,114 min,movie,"161,293"
 tt4664952,War at Home,N/A,USA,Drama,Harrison Moore,N/A,N/A,N/A,N/A,NA,130 min,movie,N/A
 tt2241017,Ayios,N/A,USA,"Action, Adventure, Sci-Fi",Andrew C. Mathews,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5866950,War of the Limelight,N/A,USA,"Drama, Romance, Thriller",Eric Hinwood,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
-tt0803096,Warcraft,"$44,765,679","China, Canada, Japan, USA","Action, Adventure, Fantasy",Duncan Jones,32,Universal Pictures,PG-13,6.8,28%,123 min,movie,"231,105"
+tt0803096,Warcraft,"$44,765,679 ","China, Canada, Japan, USA","Action, Adventure, Fantasy",Duncan Jones,32,Universal Pictures,PG-13,6.8,28%,123 min,movie,"231,105"
 tt3761422,Warning: Lunatics Abound,N/A,USA,Comedy,Mitchell Gettleman,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5483118,Warpath,N/A,USA,Drama,"Brandon Valencia, Byron Steve Valencia",N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt2518190,Warrior Road,N/A,USA,Drama,Brad Jayne,N/A,N/A,TV-MA,6.4,NA,91 min,movie,75
@@ -584,7 +584,7 @@ tt6368388,We Are Sasquatch,N/A,USA,"Comedy, Family",Joel Haver,N/A,N/A,N/A,N/A,N
 tt4860338,We Could Happen,N/A,USA,Romance,Raza Siddiqui,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt3904278,We Go On,N/A,USA,"Drama, Horror, Thriller","Jesse Holland, Andy Mitton",N/A,N/A,Not Rated,5.8,100%,90 min,movie,"3,317"
 tt4332800,We Got Lucky,N/A,USA,"Comedy, Drama",Allen Gardner,N/A,N/A,N/A,N/A,NA,79 min,movie,N/A
-tt5523004,We Love You,N/A,USA,Comedy,Huck Botko,N/A,N/A,R,4.0,NA,77 min,movie,260
+tt5523004,We Love You,N/A,USA,Comedy,Huck Botko,N/A,N/A,R,4,NA,77 min,movie,260
 tt4136534,We Make Movies,N/A,USA,Comedy,Matt Tory,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt4658482,We Promised,N/A,USA,Drama,Nancy Hamilton Myers,N/A,N/A,N/A,N/A,NA,98 min,movie,N/A
 tt6391198,We'll Meet Again: A Trip through the Films of Stanley Kubrick - Part 1,N/A,USA,N/A,Boyd Waltman,N/A,N/A,N/A,N/A,NA,131 min,movie,N/A
@@ -613,7 +613,7 @@ tt5738336,What's in a Name,N/A,USA,Drama,Elva NelsonHayes,N/A,N/A,N/A,8.2,NA,93 
 tt4624258,What's the Matter with Gerald?,N/A,USA,"Comedy, Drama, Fantasy, Romance",Matt Riddlehoover,N/A,Element Twenty Two Productions,Not Rated,5.5,NA,99 min,movie,"1,063"
 tt3920182,"What, Huh?",N/A,USA,Comedy,"Conner Williams, Tabitha Williams",N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt3786490,Wheels on the Bus,N/A,USA,Adventure,A.J. Bishop,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
-tt1389139,When the Bough Breaks,"$29,740,655",USA,"Crime, Drama, Horror, Mystery, Romance, Thriller",Jon Cassar,28,Sony Pictures,PG-13,5.1,13%,107 min,movie,"5,085"
+tt1389139,When the Bough Breaks,"$29,740,655 ",USA,"Crime, Drama, Horror, Mystery, Romance, Thriller",Jon Cassar,28,Sony Pictures,PG-13,5.1,13%,107 min,movie,"5,085"
 tt4755804,When the Last Leaf Falls,N/A,USA,Drama,Brian Cudemo,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt2212778,When the Starlight Ends,N/A,USA,"Comedy, Drama, Fantasy",Adam Sigal,N/A,N/A,PG-13,5.7,NA,85 min,movie,159
 tt3712950,"Where Are You, Bobby Browning?",N/A,USA,"Comedy, Romance",Marc A. Hutchins,N/A,N/A,N/A,4.6,NA,102 min,movie,38
@@ -622,8 +622,8 @@ tt4174926,Fourth World,N/A,"USA, Philippines","Action, Adventure, Drama",David B
 tt4624798,Where We're Meant to Be,N/A,USA,Drama,Michael Howard,N/A,Flix Premiere,N/A,8.5,NA,113 min,movie,39
 tt3113386,Where the Devil Dwells,N/A,USA,"Horror, Thriller",Marc-Andre Samson,N/A,N/A,N/A,4.8,NA,81 min,movie,115
 tt2391072,While We Were,N/A,USA,N/A,Robert Roa,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
-tt3553442,Whiskey Tango Foxtrot,"$18,356,529",USA,"Biography, Comedy, Drama, War","Glenn Ficarra, John Requa",57,Paramount Pictures,R,6.6,68%,112 min,movie,"47,170"
-tt4129870,White Girl,"$198,493",USA,"Crime, Drama",Elizabeth Wood,65,Killer Films,Not Rated,5.7,72%,88 min,movie,"8,222"
+tt3553442,Whiskey Tango Foxtrot,"$18,356,529 ",USA,"Biography, Comedy, Drama, War","Glenn Ficarra, John Requa",57,Paramount Pictures,R,6.6,68%,112 min,movie,"47,170"
+tt4129870,White Girl,"$198,493 ",USA,"Crime, Drama",Elizabeth Wood,65,Killer Films,Not Rated,5.7,72%,88 min,movie,"8,222"
 tt5733650,White Paint,N/A,USA,Fantasy,Rob Darren,N/A,N/A,N/A,N/A,NA,80 min,movie,N/A
 tt1949605,Who Gets the Dog?,N/A,USA,Comedy,Huck Botko,N/A,2DS Productions,PG,4.9,NA,95 min,movie,"1,128"
 tt4382896,Who Shot Swatcha Big Boy?,N/A,USA,Crime,"Nick Moser, Tyler Moser",N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
@@ -631,15 +631,15 @@ tt5670908,Who Was Buffalo Bill?,N/A,USA,Drama,Emily Louise Rua,N/A,N/A,NOT RATED
 tt5131850,Who Will Move the Stone,N/A,USA,Drama,Rhodes Short,N/A,N/A,N/A,9.7,NA,N/A,movie,7
 tt3733606,Who's Driving Doug,N/A,USA,Drama,David Michael Conley,N/A,Katz Agency,Not Rated,6.1,20%,99 min,movie,402
 tt5330902,Who? What? Where? Wolf!!!,N/A,USA,"Comedy, Horror",Mike Reeping,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
-tt4501244,Why Him?,"$60,312,925","USA, Cambodia",Comedy,John Hamburg,39,20th Century Fox,R,6.2,39%,111 min,movie,"93,269"
+tt4501244,Why Him?,"$60,312,925 ","USA, Cambodia",Comedy,John Hamburg,39,20th Century Fox,R,6.2,39%,111 min,movie,"93,269"
 tt5140046,"Why Lie? Beer, Woman, Chicken Wings",N/A,USA,"Adventure, Comedy","Wilson West, Jacob Bondesen",N/A,N/A,N/A,N/A,NA,110 min,movie,N/A
 tt9011210,Why Me,N/A,USA,N/A,LoWanda Dee Davis,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt4043502,Wichita,N/A,USA,"Drama, Horror, Thriller","Justyn Ah Chong, Matthew D. Ward",N/A,N/A,N/A,5.1,NA,85 min,movie,74
-tt4144190,Wiener-Dog,"$296,568",USA,"Comedy, Drama",Todd Solondz,66,Annapurna Pictures,R,5.9,73%,88 min,movie,"8,672"
+tt4144190,Wiener-Dog,"$296,568 ",USA,"Comedy, Drama",Todd Solondz,66,Annapurna Pictures,R,5.9,73%,88 min,movie,"8,672"
 tt4877410,Wig'd Out,N/A,USA,"Comedy, Drama, Family",Kate Chaplin,N/A,N/A,N/A,8.2,NA,85 min,movie,6
 tt5901672,Wild Bill Hickok: Swift Justice,N/A,USA,Western,Dan Garcia,N/A,N/A,Not Rated,4.2,NA,77 min,movie,37
 tt5930826,Wild Hunt,N/A,USA,Horror,Rowan Knight,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
-tt1655461,Wild Oats,"$21,554","Germany, USA","Action, Adventure, Comedy, Drama",Andy Tennant,N/A,The Weinstein Company,PG-13,5.6,0%,86 min,movie,"2,995"
+tt1655461,Wild Oats,"$21,554 ","Germany, USA","Action, Adventure, Comedy, Drama",Andy Tennant,N/A,The Weinstein Company,PG-13,5.6,0%,86 min,movie,"2,995"
 tt5330986,Wild Prairie Rose,N/A,USA,"Drama, Family",Deborah LaVine,N/A,N/A,N/A,N/A,NA,90 min,movie,N/A
 tt2948530,48 Hours to Live,N/A,USA,"Crime, Music, Thriller",Benny Boom,N/A,Tri Destined Studios,TV-14,4.1,NA,100 min,movie,415
 tt4246856,Wildflower,N/A,USA,"Drama, Thriller",Nicholas DiBella,N/A,N/A,PG-13,5.2,NA,92 min,movie,748
@@ -668,7 +668,7 @@ tt3973012,Women Who Kill,N/A,USA,"Comedy, Crime, Mystery, Romance, Thriller",Ing
 tt4011928,Wood Witch: The Awakening,N/A,USA,"Adventure, Sci-Fi",Courtney G. Jones,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5623338,Woodstock Holiday,N/A,USA,"Drama, Horror, Mystery",Michael Murch,N/A,N/A,N/A,N/A,NA,82 min,movie,N/A
 tt6325170,Words,N/A,USA,Drama,Lamia Alshwwier,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
-tt4050462,World of Death,N/A,"USA, Mexico","Short, Comedy, Horror","Allan Harvey, Brian W. Lockyer, Steven Payne, Ruben Rodriguez, Richard S. Sargent, Daniel Tripod, Doug Turner, Chris Wells, Steven Bray, Ferran Brooks, J.D. Brown, Satinder Chumber, Melanie Coleman, David M. Dawson, Curt Dennis, Kate Fagan, Dan Fisk, Shane Free, L.M. Harter, William Higo, A Normale Jef, Gus Krieger, Michael Kyne, Patrick Langille, Evan Marlowe, Maude Michaud, Steven Hugh Nelson, Thom Newell, James Raynor, Gavin Rye, Liz Salvato, Mark Scheetz, Craig Stewart, John Stewart, Ray Sullivan, Jason Wright, Rubel Rafael Ahmed, Frank Appache, Zeke Arredondo, David Bornstein, Norman Bosse-Platière, Bobby Browne, Bo! Campbell, Félix Catala, James Chappell, Jeff Chitty, Josh Cook, Trevor Davies, Adrian G. de la Peña, Victor Druillet, James Farris, Matt Groves, Graham Hart, Chris Hebert, Brandon Hunt, Patrick Irving, José Pedro Lopes, Dominic Mendez, Peter Murfet, Corey Norman, Lex Ortega, David Royal, Rob Sales, Gav Chuckie Steel, Matt Stuertz, Timothy Thomas, R.J. Wilson, Jordan Wippell, Travis Zariwny",N/A,N/A,N/A,8.0,NA,N/A,movie,17
+tt4050462,World of Death,N/A,"USA, Mexico","Short, Comedy, Horror","Allan Harvey, Brian W. Lockyer, Steven Payne, Ruben Rodriguez, Richard S. Sargent, Daniel Tripod, Doug Turner, Chris Wells, Steven Bray, Ferran Brooks, J.D. Brown, Satinder Chumber, Melanie Coleman, David M. Dawson, Curt Dennis, Kate Fagan, Dan Fisk, Shane Free, L.M. Harter, William Higo, A Normale Jef, Gus Krieger, Michael Kyne, Patrick Langille, Evan Marlowe, Maude Michaud, Steven Hugh Nelson, Thom Newell, James Raynor, Gavin Rye, Liz Salvato, Mark Scheetz, Craig Stewart, John Stewart, Ray Sullivan, Jason Wright, Rubel Rafael Ahmed, Frank Appache, Zeke Arredondo, David Bornstein, Norman Bosse-Platière, Bobby Browne, Bo! Campbell, Félix Catala, James Chappell, Jeff Chitty, Josh Cook, Trevor Davies, Adrian G. de la Peña, Victor Druillet, James Farris, Matt Groves, Graham Hart, Chris Hebert, Brandon Hunt, Patrick Irving, José Pedro Lopes, Dominic Mendez, Peter Murfet, Corey Norman, Lex Ortega, David Royal, Rob Sales, Gav Chuckie Steel, Matt Stuertz, Timothy Thomas, R.J. Wilson, Jordan Wippell, Travis Zariwny",N/A,N/A,N/A,8,NA,N/A,movie,17
 tt3384350,The Devil's Dolls,N/A,USA,"Horror, Thriller",Padraig Reynolds,N/A,N/A,Not Rated,4.3,NA,85 min,movie,"1,410"
 tt3701060,Worst Laid Plans,N/A,USA,"Comedy, Crime","Mark Jones, Nesib Shamah",N/A,N/A,N/A,N/A,NA,90 min,movie,N/A
 tt5376228,Worth the Price,N/A,USA,Mystery,Michael Copon,N/A,N/A,N/A,N/A,NA,89 min,movie,N/A
@@ -678,7 +678,7 @@ tt5686888,Wrestling Jerusalem,N/A,USA,Drama,Dylan Kussman,N/A,N/A,N/A,7.4,NA,90 
 tt5330540,Wretched,N/A,USA,Horror,Christopher Forbes,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5579936,Writer's Block,N/A,USA,Thriller,Nathan Waters,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
 tt5073274,Written Within,N/A,N/A,"Comedy, Drama",N/A,N/A,N/A,N/A,N/A,NA,118 min,movie,N/A
-tt3385516,X-Men: Apocalypse,"$135,729,385",USA,"Action, Adventure, Sci-Fi",Bryan Singer,52,20th Century Fox,PG-13,6.9,47%,144 min,movie,"369,767"
+tt3385516,X-Men: Apocalypse,"$135,729,385 ",USA,"Action, Adventure, Sci-Fi",Bryan Singer,52,20th Century Fox,PG-13,6.9,47%,144 min,movie,"369,767"
 tt4855748,XOXO,N/A,USA,"Drama, Music",Christopher Louie,N/A,Netflix,TV-MA,5.3,71%,92 min,movie,"6,255"
 tt5836166,XXI: O'Day,N/A,USA,Thriller,Brandon Holland,N/A,N/A,N/A,N/A,NA,75 min,movie,N/A
 tt5516626,Xyza,N/A,USA,Drama,Ikechukwu Onyeka,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
@@ -701,9 +701,9 @@ tt5515086,Zephyr,N/A,USA,"Action, Adventure, Comedy","Liam O'Connor-Genereaux, G
 tt6038258,Zeyregefet Embaba,N/A,"Eritrea, USA","Drama, Romance",Zerisennay Tesfay,N/A,N/A,N/A,N/A,NA,107 min,movie,N/A
 tt5336076,Zion,N/A,USA,"Action, Drama, Fantasy",Nicholas Tolkien,N/A,N/A,N/A,N/A,NA,101 min,movie,N/A
 tt2250026,Female Zombie Riot,N/A,"UK, USA","Comedy, Horror","Chris Greenwood, Warren Speed",N/A,N/A,N/A,2.9,NA,95 min,movie,38
-tt1608290,Zoolander 2,"$29,782,560","USA, Italy","Action, Comedy",Ben Stiller,34,Paramount Pictures,PG-13,4.7,22%,101 min,movie,"61,308"
+tt1608290,Zoolander 2,"$29,782,560 ","USA, Italy","Action, Comedy",Ben Stiller,34,Paramount Pictures,PG-13,4.7,22%,101 min,movie,"61,308"
 tt5340882,Zoombies,N/A,USA,"Action, Adventure, Comedy, Horror, Sci-Fi, Thriller",Glenn Miller,N/A,N/A,TV-14,3.3,NA,87 min,movie,"2,020"
-tt2948356,Zootopia,"$341,264,012",USA,"Animation, Adventure, Comedy, Crime, Family, Mystery","Byron Howard, Rich Moore, Jared Bush(co-director)",78,Walt Disney Animation Studios,PG,8.0,97%,108 min,movie,"398,097"
+tt2948356,Zootopia,"$341,264,012 ",USA,"Animation, Adventure, Comedy, Crime, Family, Mystery","Byron Howard, Rich Moore, Jared Bush(co-director)",78,Walt Disney Animation Studios,PG,8,97%,108 min,movie,"398,097"
 tt3565054,Zoya,N/A,USA,"Drama, War",Saeed Khoze,N/A,N/A,N/A,N/A,NA,82 min,movie,N/A
 tt4589516,bwoy,N/A,USA,Drama,John G. Young,64,Beachwood Park Films,Unrated,5.1,67%,85 min,movie,118
 tt4587508,famiLIES,N/A,USA,Reality-TV,N/A,N/A,N/A,N/A,N/A,NA,N/A,movie,N/A
