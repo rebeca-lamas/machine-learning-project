@@ -6,12 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" href="static/css/style.css">
+    <link rel="stylesheet" href="Resources/static/css/style.css">
     <title>Machine Learning</title>
 </head>
 <body>
     <nav class = "navbar navbar-expand-lg navbar-light nav-color">
-        <a class="navbar-brand bg-info p-2 rounded" href="index.html">Home</a>
+        <a class="navbar-brand p-2 rounded my-button" href="index.html">Home</a>
+        <a class="navbar-brand p-2 rounded my-button my-button-position" target=”_blank” href="https://github.com/rebeca-lamas/machine-learning-project">Git Hub</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -22,9 +23,9 @@
                         Data
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="#">Webscraping Movies</a>
-                        <a class="dropdown-item" href="#">Compiling Data</a>
-                        <a class="dropdown-item" href="#">Data Cleaning</a>
+                        <a class="dropdown-item" href="webscraping-movies.html">Webscraping Movies</a>
+                        <a class="dropdown-item" href="compiling-data.html">Compiling Data</a>
+                        <a class="dropdown-item" href="data-cleaning.html">Data Cleaning</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -32,16 +33,13 @@
                         Models
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="#">Multi-linear Regression</a>
-                        <a class="dropdown-item" href="#">Logistical</a>
-                        <a class="dropdown-item" href="#">Comparision</a>
+                        <a class="dropdown-item" href="multi-linear-regression.html">Multi-linear Regression</a>
+                        <a class="dropdown-item" href="logistical-regression.html">Logistical Regression</a>
+                        <a class="dropdown-item" href="comparision.html">Comparision</a>
                     </div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Next Steps</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Git Hub</a>
+                    <a class="nav-link" href="lessons-learned.html">Lessons Learned</a>
                 </li>
             </ul>
         </div>
@@ -52,32 +50,56 @@
                 <h1 class= "text-info">Driving Question</h1>
                 <h5>Can machine learning predict the box office for a movie being released next year?</h5>
                 <p> 
-                    Write a short summary about how we will try to answer this question and what we did. 
-                    words words words words words words words words words words words words words words words.
+                    At the end of the day, whether how much money a movie makes is a large factor in whether it will 
+                    be deemed successful or not. A model that could predict its box office amount would be extremely 
+                    useful to movie franchises.
                 </p>
                 <h5>Can it predict if it is in the top ten?</h5>
                 <p>
-                    Write a short summary about how we will try to answer this question and what we did. 
-                    words words words words words words words words words words words words words words words.
+                    Predicting an exact box office can be challenging and likely would not have a very accurate model. 
+                    But do we care more about know the exact dollar amount of the movie's box office, or do we care more 
+                    about if it is in the top 20 movies for box office for the year? Changing out questioin to a categorical 
+                    question could lead to a more accurate model. 
+                </p>
+                <h5>Project Overview</h5>
+                <p>
+                    Originally, we wanted to predict this for movies being realeased in 2020. Though as we began 
+                    to dive into the data we realized there was not enough information made public for 2020 movies. 
+                    We began to look at previous years to find the most recent years that had enough data to make 
+                    a meaningful model. The OMDb API was used to compile our datasets. To make OMDb API calls we 
+                    needed to have a complete list of the movies for a given year that were released in the 
+                    United States. We found lists that users created on IMDB that provided this information. 
+                    These lists were webscraped using python and beautiful soup, then exported as CSVs. OMDb has 
+                    a max of 1000 API calls per day for their free tier. Thus we split our titles for 2016 and 2017 
+                    into 4 batches that were no longer than 1000 records. Then each list was iterated through and API 
+                    calls were made. The information was transformed and exported as CSVs. Now we had four files of data 
+                    for 2016, and four files of data for 2017. Then the CSVs were compiled so that 2016 data was contained 
+                    in one file. Once our data was compiled into their respective year, it was time to clean our data and 
+                    transform it into the form we needed for our models. Once transformed these were exported as train_data_2016
+                    and test_data_2017. A logistical regression model was created to answer our categorical question of is the 
+                    movie going to be in the top 20 for the year. A multi-linear regression model was created to answer our 
+                    continuous question of can we predict the box office. After creating our two models we began to examine the 
+                    advantages and disadvantages of one model over another. This is shown in our comparision page. Throughout 
+                    our project journey, we have found limitations and next steps we would like to take next.
                 </p>
                 </div>
                 <div class = "col-lg-4 text-info p-5">
                     <h1>Visualizations</h1>
                     <div class = "row pt-5">
                         <div class = "col">
-                            <a href="#" title=""><img src="resources/images/placeholder.png" class="img-fluid"></a>
-                            <a href="#" title=""><img src="resources/images/placeholder.png" class="img-fluid"></a>
+                            <a href="#" title=""><img src="Resources/images/placeholder.png" class="img-fluid"></a>
+                            <a href="#" title=""><img src="Resources/images/placeholder.png" class="img-fluid"></a>
                         </div>
                         <div class = "col">
-                            <a href="#" title=""><img src="resources/images/placeholder.png" class="img-fluid"></a>
-                            <a href="#" title=""><img src="resources/images/placeholder.png" class="img-fluid"></a>
+                            <a href="#" title=""><img src="Resources/images/placeholder.png" class="img-fluid"></a>
+                            <a href="#" title=""><img src="Resources/images/placeholder.png" class="img-fluid"></a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-        <script type="text/javascript" src = 'static/js/logic.js'></script>
+        <script type="text/javascript" src = 'Resources/static/js/logic.js'></script>
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
