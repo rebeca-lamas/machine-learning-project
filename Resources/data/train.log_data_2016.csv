@@ -1,0 +1,242 @@
+title,box_office,country,genre,production,rating,runtime,year
+Rogue One: A Star Wars Story,1,1,3,Walt Disney Pictures,PG-13,133,2016
+Finding Dory,1,1,4,Walt Disney Pictures/PIXAR,PG,97,2016
+Captain America: Civil War,1,1,3,Walt Disney Pictures,PG-13,147,2016
+The Secret Life of Pets,1,3,4,Universal Pictures,PG,87,2016
+The Jungle Book,1,2,4,Walt Disney Pictures,PG,106,2016
+Zootopia,1,1,6,Walt Disney Animation Studios,PG,108,2016
+Deadpool,1,1,4,20th Century Fox,R,108,2016
+Suicide Squad,1,1,4,Warner Bros. Pictures,PG-13,123,2016
+Batman v Superman: Dawn of Justice,1,1,3,Warner Bros. Pictures,PG-13,151,2016
+Sing,1,2,4,Illumination Entertainment,PG,108,2016
+Moana,1,1,6,Walt Disney Pictures,PG,107,2016
+Fantastic Beasts and Where to Find Them,1,2,3,Warner Bros. Pictures,PG-13,132,2016
+Doctor Strange,1,1,4,Walt Disney Pictures,PG-13,115,2016
+Hidden Figures,1,1,3,20th Century Fox,PG,127,2016
+Jason Bourne,1,2,2,Universal,PG-13,123,2016
+Star Trek Beyond,1,4,4,Paramount Pictures,PG-13,122,2016
+Trolls,1,1,6,DreamWorks Animation,PG,92,2016
+La La Land,1,2,5,Liongate Films,PG-13,128,2016
+Split,1,2,2,Universal Pictures,PG-13,117,2016
+X-Men: Apocalypse,1,1,3,20th Century Fox,PG-13,144,2016
+Ghostbusters,0,2,4,Sony Pictures,PG-13,116,2016
+Kung Fu Panda 3,0,2,6,DreamWorks Animation,PG,95,2016
+Central Intelligence,0,2,3,Warner Bros. Pictures,PG-13,107,2016
+The Legend of Tarzan,0,3,5,Lionsgate Pictures,PG-13,110,2016
+Sully,0,1,2,Warner Bros.,PG-13,96,2016
+Bad Moms,0,1,1,Block Entertainment,R,100,2016
+The Angry Birds Movie,0,2,5,Sony Pictures,PG,97,2016
+Independence Day: Resurgence,0,1,3,20th Century Fox,PG-13,120,2016
+The Conjuring 2,0,3,3,Warner Bros. Pictures,R,134,2016
+Arrival,0,3,4,21 Laps Entertainment,PG-13,116,2016
+Passengers,0,2,4,Columbia Pictures,PG-13,116,2016
+Sausage Party,0,1,4,Sony Pictures,R,89,2016
+The Magnificent Seven,0,1,3,Sony Pictures,PG-13,132,2016
+Don't Breathe,0,2,3,Ghost House Pictures,R,88,2016
+Miss Peregrine's Home for Peculiar Children,0,4,4,20th Century Fox,PG-13,127,2016
+The Accountant,0,1,4,Warner Bros. Pictures,R,128,2016
+Teenage Mutant Ninja Turtles: Out of the Shadows,0,7,4,Paramount Pictures,PG-13,112,2016
+Alice Through the Looking Glass,0,2,3,Walt Disney Pictures,PG,113,2016
+Pete's Dragon,0,1,6,Walt Disney Pictures,PG,102,2016
+The Girl on the Train,0,2,4,Universal Pictures,R,112,2016
+Tyler Perry's Boo! A Madea Halloween,0,2,3,Lionsgate,PG-13,103,2016
+Deepwater Horizon,0,2,4,Lionsgate,PG-13,107,2016
+Storks,0,1,5,Warner Bros. Pictures,PG,87,2016
+Lights Out,0,1,4,RatPac-Dune Entertainment,PG-13,81,2016
+Hacksaw Ridge,0,2,4,Summit Entertainment,R,139,2016
+Now You See Me 2,0,2,6,Lionsgate,PG-13,129,2016
+Ice Age: Collision Course,0,1,7,20th Century Fox,PG,94,2016
+Why Him?,0,2,1,20th Century Fox,R,111,2016
+10 Cloverfield Lane,0,1,5,Bad Robot Productions,PG-13,103,2016
+Jack Reacher: Never Go Back,0,2,2,Paramount Pictures,PG-13,118,2016
+Fences,0,2,1,Paramount Pictures,PG-13,139,2016
+Me Before You,0,2,2,Warner Bros. Pictures,PG-13,106,2016
+The BFG,0,3,3,Walt Disney Pictures,PG,117,2016
+The Shallows,0,1,3,Ombra Films,PG-13,86,2016
+Office Christmas Party,0,2,1,Paramount Pictures,R,105,2016
+Assassin's Creed,0,6,3,20th Century Fox,PG-13,115,2016
+The Boss,0,1,1,Universal Pictures,R,99,2016
+Barbershop: The Next Cut,0,1,2,Warner Bros. Pictures,PG-13,111,2016
+My Big Fat Greek Wedding 2,0,2,2,Gold Circle Films,PG-13,94,2016
+Lion,0,3,2,See-Saw Films,PG-13,118,2016
+Kubo and the Two Strings,0,2,5,Focus Features,PG,101,2016
+Manchester by the Sea,0,1,1,Roadside Attractions ,R,137,2016
+The Huntsman: Winter's War,0,2,4,Universal Pictures,PG-13,114,2016
+Mike and Dave Need Wedding Dates,0,1,2,20th Century Fox,R,98,2016
+The Great Wall,0,5,4,Universal Pictures,PG-13,103,2016
+Warcraft,0,4,3,Universal Pictures,PG-13,123,2016
+War Dogs,0,2,5,Warner Bros. Pictures,R,114,2016
+Almost Christmas,0,2,2,Will Packer Productions,PG-13,111,2016
+Allied,0,2,5,Paramount Pictures,R,124,2016
+Nerve,0,1,5,Keep Your Head,PG-13,96,2016
+13 Hours,0,3,5,Paramount Pictures,R,144,2016
+Ouija: Origin of Evil,0,1,4,Universal Pictures,PG-13,99,2016
+Dirty Grandpa,0,1,1,Lionsgate Films,R,102,2016
+Inferno,0,2,5,Sony Pictures,PG-13,121,2016
+The Nice Guys,0,1,5,Warner Bros. Pictures,R,116,2016
+Patriots Day,0,2,5,CBS Films,R,133,2016
+Gods of Egypt,0,3,3,Lionsgate,PG-13,127,2016
+Collateral Beauty,0,1,2,New Line Cinema,PG-13,97,2016
+Underworld: Blood Wars,0,1,7,Lakeshore Entertainment,R,91,2016
+The Boy,0,3,3,STX Entertainment,PG-13,97,2016
+Zoolander 2,0,2,2,Paramount Pictures,PG-13,101,2016
+When the Bough Breaks,0,1,6,Sony Pictures,PG-13,107,2016
+Mother's Day,0,1,3,Open Road Films,PG-13,118,2016
+Mothers and Daughters,0,1,1,Open Road Films,PG-13,90,2016
+"Hail, Caesar!",0,3,4,Universal Pictures,PG-13,106,2016
+Moonlight,0,1,1,A24 Films,R,111,2016
+Hell or High Water,0,1,5,Film 44,R,102,2016
+Resident Evil: The Final Chapter,0,8,4,Sony Pictures,R,107,2016
+Ben-Hur,0,1,4,Paramount Pictures,PG-13,123,2016
+Bridget Jones's Baby,0,4,3,Working Title,R,123,2016
+The Forest,0,1,3,Gramercy Pictures,PG-13,93,2016
+Snowden,0,4,4,Open Road Films,R,134,2016
+Mechanic: Resurrection,0,2,3,Summit Entertainment,R,98,2016
+Blair Witch,0,2,3,Vertigo Entertainment,R,89,2016
+The Finest Hours,0,1,3,Walt Disney Pictures,PG-13,117,2016
+Middle School: The Worst Years of My Life,0,2,2,James Patterson Entertainment,PG,92,2016
+Whiskey Tango Foxtrot,0,1,4,Paramount Pictures,R,112,2016
+Bad Santa 2,0,1,3,Miramax/Broad Green,R,92,2016
+Masterminds,0,1,2,Relativity Media,PG-13,95,2016
+The Birth of a Nation,0,2,3,Fox Searchlight Pictures,R,120,2016
+The Infiltrator,0,2,4,Broad Green Pictures,R,127,2016
+The Choice,0,1,2,Lionsgate Films,PG-13,111,2016
+Keeping Up with the Joneses,0,1,2,20th Century Fox,PG-13,105,2016
+The Edge of Seventeen,0,2,2,STX Entertainment,R,104,2016
+Jackie,0,6,3,Fox Searchlight Pictures,R,100,2016
+The Founder,0,1,3,The Weinstein Company,PG-13,115,2016
+The Light Between Oceans,0,4,2,Dreamworks Pictures,PG-13,133,2016
+Norm of the North,0,3,4,Lionsgate,PG,90,2016
+No manches Frida,0,3,2,Constantin Film Produktion,PG-13,114,2016
+Café Society,0,1,3,Perdido Productions,PG-13,96,2016
+The Darkness,0,1,2,NaN,PG-13,92,2016
+Nocturnal Animals,0,1,2,Focus Features,R,116,2016
+Live by Night,0,1,4,Warner Bros. Pictures,R,129,2016
+The Belko Experiment,0,1,2,BH Tilt,R,89,2016
+Queen of Katwe,0,1,3,Walt Disney Studios,PG,124,2016
+Pride and Prejudice and Zombies,0,2,5,Sony Pictures,PG-13,108,2016
+The Lost City of Z,0,1,3,Amazon Studios/Bleecker Street Media,PG-13,141,2016
+The Promise,0,2,5,Open Road Films,PG-13,133,2016
+A Cure for Wellness,0,2,6,20th Century Fox,R,146,2016
+Loving,0,2,3,Big Beach Films,PG-13,123,2016
+The Perfect Match,0,1,2,Jorva Entertainment Productions,R,96,2016
+Gold,0,1,2,TWC-Dimension,R,120,2016
+Silence,0,6,2,Paramount Pictures,R,161,2016
+Birth of the Dragon,0,3,3,BH Tilt/WWE Studios,PG-13,95,2016
+Southside with You,0,1,4,Miramax and Roadside Attractions,PG-13,84,2016
+Lowriders,0,1,3,BH Tilt,PG-13,98,2016
+Captain Fantastic,0,1,2,Electric City Entertainment,R,118,2016
+20th Century Women,0,1,2,A24 Films,R,119,2016
+Paris Can Wait,0,2,3,Sony Pictures Classics,PG,92,2016
+Bleed for This,0,1,3,Open Road Films,R,117,2016
+Absolutely Fabulous: The Movie,0,2,2,DJ Films,R,91,2016
+Hands of Stone,0,2,3,Fuego Films,R,111,2016
+Don't Think Twice,0,1,2,The Film Arcade,R,92,2016
+Swiss Army Man,0,2,4,Blackbird Films,R,97,2016
+Denial,0,2,2,Participant Media,PG-13,109,2016
+Morgan,0,1,4,Scott Free Films,R,92,2016
+A United Kingdom,0,5,3,Harbinger Pictures,PG-13,111,2016
+Sleight,0,1,4,BH Tilt,R,89,2016
+Norman,0,2,2,Sony Pictures Classics,R,118,2016
+Max Steel,0,2,5,Open Road Films,PG-13,92,2016
+A Monster Calls,0,3,3,Focus Features,PG-13,108,2016
+Rules Don't Apply,0,1,3,20th Century Fox,PG-13,127,2016
+Miss Sloane,0,2,2,EuropaCorp,R,132,2016
+Indignation,0,2,2,Likely Story,R,110,2016
+Midnight Special,0,2,4,Warner Bros. Pictures,PG-13,112,2016
+Sing Street,0,3,4,Likely Story,PG-13,106,2016
+Colossal,0,4,5,NEON,R,109,2016
+Anthropoid,0,4,4,LD Entertainment,R,120,2016
+The Disappointments Room,0,1,3,Relativity Studios,R,85,2016
+LBJ,0,1,3,Electric Entertainment,R,98,2016
+David Brent: Life on the Road,0,2,2,Netflix,Unrated,96,2016
+Collide,0,4,3,Open Road Films,PG-13,99,2016
+Paterson,0,3,3,K5 International,R,118,2016
+I'm Not Ashamed,0,1,2,Pure Flix,PG-13,112,2016
+Greater,0,1,3,NaN,PG,130,2016
+A Quiet Passion,0,4,2,Hurricane Films,PG-13,125,2016
+Billy Lynn's Long Halftime Walk,0,3,5,Sony Pictures,R,113,2016
+The Comedian,0,1,2,Sony Pictures Classics,R,120,2016
+Equity,0,1,1,Broad Street Pictures,R,100,2016
+Priceless,0,1,4,Radiate Films,PG-13,97,2016
+Genius,0,2,2,Riverstone Pictures,PG-13,104,2016
+Certain Women,0,1,1,Film Science,R,107,2016
+The Hollars,0,1,3,Sony Pictures Classics,PG-13,88,2016
+Neruda,0,5,4,The Orchard,R,107,2016
+The Red Turtle,0,13,2,Studio Ghibli,PG,80,2016
+Believe,0,1,1,Power of 3,PG,119,2016
+The Wailing,0,2,3,NaN,TV-MA,156,2016
+31,0,2,2,Bow and Arrow Entertainment,R,102,2016
+Elvis & Nixon,0,1,2,Amazon Studios,R,86,2016
+Little Men,0,3,1,Race Point Films,PG,85,2016
+Mr. Church,0,1,2,Envision Media Arts,PG-13,104,2016
+American Honey,0,2,3,Parts and Labor,R,163,2016
+Tommy's Honour,0,2,4,Roadside Attractions,PG,112,2016
+Saturday's Warrior,0,1,1,NaN,PG,120,2016
+American Pastoral,0,2,2,Lakeshore Entertainment,R,108,2016
+Batman: The Killing Joke,0,1,5,The Answer Studio,R,76,2016
+Chuck,0,1,3,IFC Films,R,98,2016
+The Bounce Back,0,1,2,Ankle Sock &amp; Baseball Pants,PG-13,104,2016
+AmeriGeddon,0,1,2,NaN,PG-13,90,2016
+Christine,0,2,2,Borderline Films,R,119,2016
+Wiener-Dog,0,1,2,Annapurna Pictures,R,88,2016
+Dean,0,1,3,CBS Films,PG-13,94,2016
+Kingsglaive: Final Fantasy XV,0,2,6,Square Enix Company,PG-13,110,2016
+The Love Witch,0,1,4,Oscilloscope Laboratories,Unrated,120,2016
+Coming Home,0,1,1,Sony Pictures Classics,Unrated,0,2016
+Jimmy Vestvood: Amerikan Hero,0,1,1,Gravitas Ventures,TV-MA,84,2016
+White Girl,0,1,2,Killer Films,Unrated,88,2016
+Spark: A Space Tail,0,4,7,Open Road Films,PG,91,2016
+Complete Unknown,0,1,2,Parts and Labor,R,91,2016
+The Bad Batch,0,1,4,NEON,R,118,2016
+David and Goliath,0,1,3,RiverRain Productions,Unrated,75,2016
+Kicks,0,1,2,Animal Kingdom,R,80,2016
+Remember the Goal,0,1,1,Five and Two Pictures,PG,88,2016
+Morris from America,0,2,3,A24 and DIRECTV,R,91,2016
+Buster's Mal Heart,0,1,3,Well Go USA Entertainment,Unrated,96,2016
+King Cobra,0,1,3,Yale Productions,Unrated,91,2016
+My Entire High School Sinking Into the Sea,0,1,3,GKIDS,PG-13,75,2016
+Other People,0,1,2,Gettin&#39; Rad Productions,Unrated,97,2016
+Donald Cried,0,1,2,Electric Chinoland,Unrated,85,2016
+In a Valley of Violence,0,1,2,Blumhouse Productions,R,104,2016
+The Greasy Strangler,0,1,2,Rook Films,Unrated,93,2016
+Hermia & Helena,0,2,2,Trapecio Cine,Unrated,87,2016
+The Take,0,5,4,High Top Releasing,R,92,2016
+Pele: Birth of a Legend,0,1,3,IFC Films,PG,107,2016
+The Tiger Hunter,0,1,1,Sneaky Sneaky Films,Unrated,94,2016
+Is That a Gun in Your Pocket?,0,1,1,The Vault,R,95,2016
+Spa Night,0,1,1,Nonetheless Productions,Unrated,93,2016
+Sophie and the Rising Sun,0,1,1,Monterey Media,R,105,2016
+3 Weeks in Yerevan,0,1,1,Wet Paint Production,Unrated,0,2016
+The Eyes of My Mother,0,1,2,Magnet Releasing,R,76,2016
+Goat,0,1,1,Killer Films,R,96,2016
+Simple Creature,0,1,2,NaN,Unrated,92,2016
+The Transfiguration,0,1,2,Transfiguration Prods.,Unrated,97,2016
+Wild Oats,0,2,4,The Weinstein Company,PG-13,86,2016
+"No Pay, Nudity",0,1,2,A Day in the Life Films,R,92,2016
+The Homeless Billionaire,0,1,1,NaN,Unrated,88,2016
+Carrie Pilby,0,1,2,The Orchard,Unrated,98,2016
+Radio Dreams,0,1,1,Butimar Productions,Unrated,93,2016
+The Land,0,1,1,Low Spark Films,R,104,2016
+Brave New Jersey,0,1,1,Gravitas Ventures,TV-MA,86,2016
+Term Life,0,1,3,Focus World,R,93,2016
+Always Shine,0,1,4,Little Teeth Pictures,Unrated,85,2016
+Porto,0,4,2,Salem Street Entertainment,R,76,2016
+Lovesong,0,1,2,Strand Releasing,Unrated,84,2016
+Junction 48,0,3,6,The Orchard,Unrated,95,2016
+Beta Test,0,1,3,Mirror Images LTD.,Unrated,88,2016
+Ghost Team,0,1,2,Tandem Pictures,PG-13,83,2016
+The Charnel House,0,1,2,Siegal Entertainment,R,90,2016
+Frank & Lola,0,1,4,Parts and Labor,Unrated,88,2016
+Icaros: A Vision,0,2,1,Factory 25,Unrated,91,2016
+From Nowhere,0,1,1,No Place for Films,Unrated,89,2016
+A Beginner's Guide to Snuff,0,1,3,Indican Pictures,Unrated,87,2016
+Blue Jay,0,1,2,Duplass Brothers,Unrated,80,2016
+The Channel,0,1,3,NaN,Unrated,93,2016
+Miss Stevens,0,1,2,Beachside Films,Unrated,86,2016
+The Last Film Festival,0,1,1,NaN,R,90,2016
+My Father Die,0,1,2,KnightMarcher,Unrated,90,2016
+The Girl on the Train,0,1,1,Monterey Media,R,80,2016
+Range 15,0,1,3,Street Justice Films,TV-MA,89,2016
+Officer Downe,0,1,3,Blackmrkt,R,88,2016
+Satanic,0,1,1,Marvista Entertainment,R,85,2016

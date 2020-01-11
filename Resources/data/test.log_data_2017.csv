@@ -1,0 +1,196 @@
+title,box_office,country,genre,rating,runtime,production,year
+Star Wars: Episode VIII - The Last Jedi,1,1,4,PG-13,152,Walt Disney Pictures,2017
+Beauty and the Beast,1,1,4,PG,129,Walt Disney Pictures,2017
+Wonder Woman,1,3,5,PG-13,141,Warner Bros. Pictures,2017
+Jumanji: Welcome to the Jungle,1,6,4,PG-13,119,Columbia Pictures,2017
+Guardians of the Galaxy Vol. 2,1,1,4,PG-13,136,Walt Disney Pictures,2017
+Spider-Man: Homecoming,1,1,3,PG-13,133,Sony Pictures,2017
+It,1,2,1,R,135,Warner Bros. Pictures,2017
+Thor: Ragnarok,1,1,5,PG-13,130,Walt Disney Pictures,2017
+Despicable Me 3,1,1,6,PG,89,Universal Pictures,2017
+Justice League,1,3,4,PG-13,120,Warner Bros. Pictures,2017
+Logan,1,1,4,R,137,20th Century Fox,2017
+The Fate of the Furious,1,3,3,PG-13,136,Universal Pictures,2017
+Coco,1,1,6,PG,105,Disney/Pixar,2017
+Dunkirk,1,4,5,PG-13,106,Warner Bros. Pictures,2017
+The Lego Batman Movie,1,2,4,PG,104,Warner Bros. Pictures,2017
+Get Out,1,2,3,R,104,Universal Pictures,2017
+The Boss Baby,1,1,5,PG,97,DreamWorks Animation,2017
+Pirates of the Caribbean: Dead Men Tell No Tales,1,1,3,PG-13,129,Walt Disney Pictures,2017
+Kong: Skull Island,1,2,4,PG-13,118,Warner Bros. Pictures/Legendary Pictures,2017
+The Greatest Showman,1,1,3,PG,105,20th Century Fox,2017
+Cars 3,0,1,5,G,102,Walt Disney Pictures,2017
+War for the Planet of the Apes,0,3,5,PG-13,140,20th Century Fox,2017
+Wonder,0,2,2,PG,113,Lionsgate,2017
+Transformers: The Last Knight,0,3,3,PG-13,154,Paramount Pictures,2017
+Girls Trip,0,2,3,R,122,Universal Pictures,2017
+Fifty Shades Darker,0,3,2,R,118,Universal Pictures,2017
+Baby Driver,0,2,5,R,113,Sony Pictures,2017
+Pitch Perfect 3,0,1,2,PG-13,93,Universal Pictures,2017
+Daddy's Home 2,0,1,1,PG-13,100,Paramount Pictures,2017
+Annabelle: Creation,0,1,3,R,109,New Line Cinema,2017
+Murder on the Orient Express,0,2,3,PG-13,114,20th Century Fox,2017
+Kingsman: The Golden Circle,0,2,3,R,141,20th Century Fox,2017
+John Wick: Chapter 2,0,2,3,R,122,Summit Entertainment,2017
+Blade Runner 2049,0,5,5,R,164,Warner Bros. Pictures,2017
+The Emoji Movie,0,1,5,PG,86,Sony Pictures Animation,2017
+Power Rangers,0,6,3,PG-13,124,Lionsgate Films,2017
+The Post,0,2,4,PG-13,116,20th Century Fox,2017
+The Mummy,0,3,4,PG-13,110,Universal Pictures,2017
+The Hitman's Bodyguard,0,4,3,R,118,Summit Entertainment,2017
+Alien: Covenant,0,2,3,R,122,20th Century Fox,2017
+Captain Underpants: The First Epic Movie,0,5,4,PG,89,20th Century Fox,2017
+A Bad Moms Christmas,0,2,1,R,104,STXfilms,2017
+Ferdinand,0,2,5,PG,108,Blue Sky Studio/20th Century Fox,2017
+A Dog's Purpose,0,2,5,PG,100,Amblin Entertainment,2017
+The Lego Ninjago Movie,0,3,5,PG,101,Warner Bros. Pictures,2017
+Baywatch,0,3,3,R,116,Paramount Pictures,2017
+The Shape of Water,0,2,5,R,123,Fox Searchlight Pictures,2017
+The Shack,0,1,2,PG-13,132,Lionsgate,2017
+Happy Death Day,0,1,3,PG-13,96,Universal Studios,2017
+"Three Billboards Outside Ebbing, Missouri",0,2,3,R,115,Fox Searchlight Pictures,2017
+Atomic Blonde,0,4,3,R,115,Focus Features,2017
+American Made,0,3,4,R,115,Universal Pictures,2017
+The Dark Tower,0,1,6,PG-13,95,Sony Pictures,2017
+Lady Bird,0,1,2,R,94,A24,2017
+Boo 2! A Madea Halloween,0,1,3,PG-13,101,Lionsgate,2017
+Snatched,0,1,3,R,90,20th Century Fox,2017
+Smurfs: The Lost Village,0,3,5,PG,90,Sony Pictures,2017
+All Eyez on Me,0,1,3,R,139,SUMMIT/CODEBLACK FILMS/LIONSGATE,2017
+xXx: Return of Xander Cage,0,3,3,PG-13,107,Paramount Pictures,2017
+47 Meters Down,0,2,4,PG-13,89,Entertainment Studios Motion Pictures,2017
+The Big Sick,0,1,3,R,120,Amazon Studios,2017
+Ghost in the Shell,0,5,4,PG-13,107,Paramount Pictures,2017
+The Star,0,1,5,PG,86,Sony Pictures Animation,2017
+Valerian and the City of a Thousand Planets,0,6,4,PG-13,137,EuropaCorp / STXfilms,2017
+King Arthur: Legend of the Sword,0,2,4,PG-13,126,Warner Bros. Pictures,2017
+Jigsaw,0,2,3,R,92,Lionsgate,2017
+American Assassin,0,1,2,R,112,Lionsgate and CBS Films,2017
+"Everything, Everything",0,1,2,PG-13,96,Warner Bros. Pictures,2017
+The Foreigner,0,3,2,R,113,STX Films,2017
+Wind River,0,3,4,R,107,The Weinstein Company,2017
+Geostorm,0,1,3,PG-13,109,Warner Bros. Pictures,2017
+Fist Fight,0,1,1,R,91,Warner Bros. Pictures,2017
+How to Be a Latin Lover,0,2,2,PG-13,115,Pantelion Films,2017
+Kidnap,0,1,3,R,95,Aviron Pictures,2017
+Kidnapped,0,1,1,Unrated,90,Aviron Pictures,2017
+Life,0,1,3,R,104,Skydance Films,2017
+The Mountain Between Us,0,1,5,PG-13,112,20th Century Fox,2017
+Hostiles,0,1,2,R,134,Entertainment Studios Motion Pictures,2017
+"I, Tonya",0,3,4,R,119,NEON,2017
+Molly's Game,0,3,3,R,140,STXfilms,2017
+Darkest Hour,0,2,4,PG-13,125,Focus Features,2017
+Rings,0,1,4,PG-13,102,Paramount Pictures,2017
+Logan Lucky,0,1,3,PG-13,118,Fingerprint Releasing / Bleecker Street,2017
+Home Again,0,1,3,PG-13,97,Open Road Films,2017
+The House,0,1,2,R,88,Warner Bros. Pictures,2017
+Gifted,0,1,1,PG-13,101,FilmNation Entertainment,2017
+Downsizing,0,2,2,R,135,Paramount Pictures,2017
+The Bye Bye Man,0,2,5,PG-13,96,STX Entertainment,2017
+Rough Night,0,1,3,R,101,Columbia Pictures,2017
+My Little Pony: The Movie,0,2,7,PG,99,Lionsgate,2017
+Victoria & Abdul,0,2,3,PG-13,111,Focus Features,2017
+Sleepless,0,2,2,Unrated,0,Open Road Films,2017
+Sleepless,0,1,3,R,95,Open Road Films,2017
+Diary of a Wimpy Kid: The Long Haul,0,1,2,PG,91,20th Century Fox,2017
+The Circle,0,2,3,PG-13,110,EuropaCorp / STXfilms,2017
+All the Money in the World,0,3,5,R,132,TriStar Pictures,2017
+CHIPS,0,1,3,R,100,Warner Bros. Pictures,2017
+Only The Brave,0,1,3,PG-13,134,Columbia Pictures,2017
+The Zookeeper's Wife,0,3,4,PG-13,127,Focus Features,2017
+Mother!,0,1,3,R,121,Paramount Pictures,2017
+The Glass Castle,0,1,2,PG-13,127,Lionsgate,2017
+Flatliners,0,2,5,PG-13,109,Columbia Pictures,2017
+Detroit,0,1,4,R,143,Annapurna Pictures,2017
+Father Figures,0,1,3,R,113,Warner Bros. Pictures,2017
+The Case for Christ,0,1,2,PG,112,Pure Flix,2017
+Wish Upon,0,2,5,PG-13,90,Broad Green Pictures,2017
+It Comes At Night,0,1,2,R,91,A24,2017
+Megan Leavey,0,1,3,PG-13,116,Bleecker Street,2017
+Battle of the Sexes,0,2,4,PG-13,121,Fox Searchlight Pictures,2017
+Before I Fall,0,1,3,PG-13,98,Open Road Films,2017
+"Roman J. Israel, Esq.",0,3,3,PG-13,122,Sony Pictures,2017
+Unforgettable,0,1,2,R,100,Warner Bros. Pictures,2017
+The Beguiled,0,1,2,R,93,Focus Features,2017
+Thank You for Your Service,0,2,3,R,109,Universal Studios,2017
+The Promise,0,1,1,Unrated,0,Open Road Films,2017
+The Space Between Us,0,1,3,PG-13,120,STX Entertainment,2017
+Beatriz at Dinner,0,1,2,R,82,Roadside Attractions,2017
+The Snowman,0,5,4,R,119,Universal Studios,2017
+Same Kind of Different as Me,0,1,2,PG-13,119,Paramount Pictures / Pure Flix,2017
+Loving Vincent,0,5,5,PG-13,94,Good Deed Entertainment,2017
+All Saints,0,1,1,PG,108,Sony Pictures / Affirm Films,2017
+The Florida Project,0,1,1,R,111,June Pictures,2017
+The Book of Henry,0,1,3,PG-13,105,Focus Features,2017
+Stronger,0,1,2,R,119,Lionsgate and Roadside Attractions,2017
+Stronger,0,1,1,PG-13,125,Lionsgate and Roadside Attractions,2017
+The Hero,0,1,3,R,96,The Orchard,2017
+Table 19,0,1,3,PG-13,87,Fox Searchlight Pictures,2017
+Phoenix Forgotten,0,1,4,PG-13,87,Cinelou Films,2017
+Ingrid Goes West,0,1,2,R,98,NEON,2017
+My Cousin Rachel,0,2,3,PG-13,106,Fox Searchlight Pictures,2017
+Til Death Do Us Part,0,1,1,PG-13,101,Novus Content,2017
+Til Death Do Us Part,0,1,2,Unrated,0,Novus Content,2017
+A Question of Faith,0,1,1,PG,104,Pure Flix Entertainment,2017
+Tulip Fever,0,2,3,R,105,The Weinstein Company,2017
+The Lovers,0,1,3,R,97,A24 Films,2017
+Brad's Status,0,1,3,R,102,Amazon Studios,2017
+Good Time,0,1,3,R,101,A24,2017
+The Wall,0,1,4,R,88,Amazon Studios and Roadside Attractions,2017
+The Last Word,0,1,2,R,108,Bleecker Street Media,2017
+Menashe,0,1,1,PG,82,A24 Films,2017
+Slamma Jamma,0,1,2,PG,104,RiverRain Productions,2017
+The Little Hours,0,2,2,R,90,Gunpowder &amp; Sky,2017
+A Ghost Story,0,1,3,R,92,Ideaman Studios,2017
+Professor Marston & the Wonder Women,0,1,2,R,108,Annapurna Pictures,2017
+The Stray,0,1,2,PG,92,Pure Flix Entertainment,2017
+My Friend Dahmer,0,1,2,R,107,FilmRise,2017
+Iris,0,1,3,Unrated,0,Magnolia Pictures,2017
+The Square,0,5,2,R,151,Magnolia Pictures,2017
+Wonderstruck,0,1,2,PG,116,Amazon Studios,2017
+Phantom Thread,0,2,2,R,130,Focus Features,2017
+Columbus,0,1,1,Unrated,100,Superlative Films / Depth of Field Productions,2017
+Patti Cake$,0,1,2,R,109,Fox Searchlight Pictures,2017
+The Devotion of Suspect X,0,2,2,Unrated,112,China Lion Film Distribution,2017
+Wilson,0,1,2,R,94,Fox Searchlight,2017
+The Only Living Boy in New York,0,1,1,R,89,Amazon Studios/Roadside Attractions,2017
+Novitiate,0,1,1,R,123,Maven Pictures,2017
+Brigsby Bear,0,2,2,PG-13,97,Sony Pictures Classics,2017
+Beach Rats,0,1,1,R,98,NEON,2017
+Song to Song,0,1,3,R,129,Broad Green Pictures,2017
+Weightless,0,1,1,Unrated,0,Broad Green Pictures,2017
+Last Flag Flying,0,1,3,R,125,Amazon Studios,2017
+"Love, Kennedy",0,1,1,PG,92,Purdie Distribution,2017
+Rebel in the Rye,0,1,4,PG-13,106,IFC Films,2017
+Tom of Finland,0,6,2,Unrated,117,Kino Lorber,2017
+I Do... Until I Don't,0,1,1,R,106,The Film Arcade,2017
+Band Aid,0,1,4,R,91,IFC Films,2017
+Crown Heights,0,1,4,R,94,Amazon Studios and IFC Films,2017
+The Breadwinner,0,7,4,PG-13,94,NaN,2017
+Gook,0,1,1,Unrated,94,Samuel Goldwyn Films,2017
+Marjorie Prime,0,1,4,Unrated,99,FilmRise,2017
+The Ottoman Lieutenant,0,2,2,R,106,Paladin,2017
+Valley of Bones,0,1,3,R,90,Bad Medicine Films,2017
+The Void,0,1,1,Unrated,110,Screen Media Films,2017
+Walking Out,0,1,4,PG-13,95,IFC Films,2017
+"Tim Timmerman, Hope of America",0,1,2,PG-13,94,Purdie Distribution,2017
+Chapter & Verse,0,1,1,R,97,Harlem Film Company,2017
+Tragedy Girls,0,1,3,R,98,Gunpowder &amp; Sky,2017
+Person to Person,0,1,2,Unrated,84,Magnolia Pictures,2017
+Woodshock,0,1,2,R,100,A24 Films,2017
+7 Witches,0,1,2,Unrated,75,Indican Pictures,2017
+XX,0,2,1,R,80,XYZ Films,2017
+Super Dark Times,0,1,4,Unrated,103,The Orchard,2017
+"We Love You, Sally Carmichael!",0,1,1,PG,84,GO Films,2017
+Bad Grandmas,0,1,3,Unrated,92,Parade Deck Films,2017
+Americons,0,1,4,R,88,Archstone Distribution,2017
+Dave Made a Maze,0,1,4,Unrated,80,Gravitas Ventures,2017
+Permanent,0,1,1,PG-13,93,Magnolia Pictures,2017
+Blind,0,1,2,R,98,Vertical Entertainment,2017
+In Search of Fellini,0,1,3,R,93,AMBI Distribution,2017
+Death House,0,1,5,R,95,Hannover House,2017
+Sweet Virginia,0,2,2,R,93,IFC Films,2017
+Vengeance: A Love Story,0,1,4,TV-MA,99,Patriot Pictures,2017
+The Vault,0,1,4,Unrated,91,FilmRise,2017
+Take Me,0,1,2,TV-MA,83,The Orchard,2017
+Dayveon,0,1,1,Unrated,75,FilmRise,2017
