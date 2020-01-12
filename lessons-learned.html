@@ -48,8 +48,28 @@
         <div class = "row bg-white mt-5">
             <div class = "col-lg-8 border-right p-5">
                 <h1 class= "text-info">Lessons Learned</h1>
-                <h5 class= "text-info">Limitations</h5>
-                <h5 class= "text-info">Next Steps</h5>
+                <h5>Limitations</h5>
+                <p>
+                    Our models are only as good as our datasets. Our dataset was limited in size. For each year we webscraped more than 
+                    3,000 titles but after eliminating those without data for box office we were left with about 250 titles. This is 
+                    large gap in our data. Furthermore, when we dove into seeing how we wanted to handle such a large gap in data, we found 
+                    our box office numbers did not match numbers we found while googling. This could be that the other numbers online 
+                    was box office for multiple countries, for a longer period of time versus opening weekend numbers. 
+                    Our data's accuracy is also limited to how accurate the user was that created the list that was originally webscraped. 
+                    In webscraping a few 2015 movies were returned but had been included in the 2016 list of movies.
+                </p>
+                <p>
+                    Another limitation was in the limited API calls we were allowed. Given our time table, we only had the time and resources 
+                    to compile data for 2016-2018. We had planned to use 2018 to validate our model but it had even less data for box office 
+                    compared to 2016 and 2017. Instead of having approximately 250 records for box office, it had about 25. With such a dramatic 
+                    drop in size, we decided it would not be meaningful to use it to validate. Hindsight we wish we had pulled the data for 2015 
+                    instead of 2018 but we had no way of knowing that it would have such little data for box office.
+                </p>
+                <h5>Next Steps</h5>
+                <p>
+                    Our model currently has very promising results, though we are curious to see if it would still be as accurate with larger 
+                    data sets. Given more time, we could compile complete datasets for 2000 - 2015. 
+                </p>
                 </div>
             </div>
         </div>

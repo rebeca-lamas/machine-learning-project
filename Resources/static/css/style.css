@@ -8,6 +8,7 @@ body {
 
 .nav-color{
   background:white;}
+
 @media (max-width:600px){
 .nav-color{background:#17a2b8;}
 }
@@ -15,29 +16,6 @@ body {
 @media (max-width:1000px){
 .my-button-position {
   position: absolute;
-  left: 100px;
+  left: 100px;}
 }
-}
-
-/* @media screen and (min-width: 501px) and (max-width: 760px){
-  /* #title {
-    left: 15%;
-    top: 60px;
-    font-size: 60px;
-  }
-  canvas {
-    height: 200px;
-  } */
-/* } */
-
-/* @media screen and (max-width: 500px){ */
-  /* #title {
-    left: 20%;
-    top: 50px;
-    font-size: 40px;
-  }
-  canvas {
-    height: 150px;
-  } */
-/* } */
 
