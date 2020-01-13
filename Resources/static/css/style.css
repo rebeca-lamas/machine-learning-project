@@ -9,9 +9,9 @@ body {
 
 .my-button:hover {background: 	#98FB98;}
 
-.link { color:	#32CD32; } /* CSS link color (red) */
+.link { color:	#32CD32; }
 
-.link:hover { color: #20B2AA; } /* CSS link hover (green) */
+.link:hover { color: #20B2AA; }
 
 h1 {
   color: #2E8B57
