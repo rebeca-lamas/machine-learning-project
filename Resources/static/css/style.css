@@ -1,21 +1,28 @@
 body {
-  background: #f6f6f6;
+  background-image: url("/Resources/images/diagmonds.png");
+  background-color: #affab1;
 }
 
 .my-button {
-  background: #17a2b8;
+  background:#3CB371;
 }
 
+.my-button:hover {background: 	#98FB98;}
+
+.link { color:	#32CD32; }
+
+.link:hover { color: #20B2AA; }
+
+h1 {
+  color: #2E8B57
+}
 .nav-color{
   background:white;}
 
 @media (max-width:600px){
-.nav-color{background:#17a2b8;}
+.nav-color{background:#3CB371;}
 }
 
-@media (max-width:1000px){
-.my-button-position {
-  position: absolute;
-  left: 100px;}
+.container {
+  margin-bottom: 40px;
 }
-

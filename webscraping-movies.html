@@ -11,8 +11,10 @@
 </head>
 <body>
     <nav class = "navbar navbar-expand-lg navbar-light nav-color">
-        <a class="navbar-brand p-2 rounded my-button" href="index.html">Home</a>
-        <a class="navbar-brand p-2 rounded my-button my-button-position" target=”_blank” href="https://github.com/rebeca-lamas/machine-learning-project">Git Hub</a>
+        <div class="btn-group" role="group" aria-label="Basic example">
+            <a href="index.html" type="button" class="btn my-button m-1 rounded">Home</a>
+            <a target=”_blank” href="https://github.com/rebeca-lamas/machine-learning-project" type="button" class="btn my-button m-1 rounded">Git Hub</a>
+        </div>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -47,48 +49,48 @@
     <div class="container">
         <div class = "row bg-white mt-5">
             <div class = "col-lg-8 border-right p-5">
-                <h1 class= "text-info">Webscraping Movies</h1>
+                <h1>Webscraping Movies</h1>
                 <p>
                     The following websites were webscraped to create complete lists of movies released in the given year 
                     in the United States.
                     <ul>
-                        <li><a target=”_blank” href="https://www.imdb.com/search/title/?title_type=feature&year=2016-01-01,2016-12-31&countries=us&sort=alpha,asc&ref_=adv_prv">List of 2016 Movies</a></li>
-                        <li><a target=”_blank” href="https://www.imdb.com/search/title/?title_type=feature&year=2017-01-01,2017-12-31&countries=us&sort=alpha,asc&ref_=adv_prv">List of 2017 Movies</a></li>
-                        <li><a target=”_blank” href="https://www.imdb.com/search/title/?title_type=feature&year=2018-01-01,2018-12-31&countries=us&sort=alpha,asc&ref_=adv_prv">List of 2018 Movies</a></li>
+                        <li><a target=”_blank” class = "link" href="https://www.imdb.com/search/title/?title_type=feature&year=2016-01-01,2016-12-31&countries=us&sort=alpha,asc&ref_=adv_prv">List of 2016 Movies</a></li>
+                        <li><a target=”_blank” class = "link" href="https://www.imdb.com/search/title/?title_type=feature&year=2017-01-01,2017-12-31&countries=us&sort=alpha,asc&ref_=adv_prv">List of 2017 Movies</a></li>
+                        <li><a target=”_blank” class = "link" href="https://www.imdb.com/search/title/?title_type=feature&year=2018-01-01,2018-12-31&countries=us&sort=alpha,asc&ref_=adv_prv">List of 2018 Movies</a></li>
                     </ul>
                     Beautiful Soup and pandas were used to parse the html and extract the title_ids needed to make our API calls. 
-                    Since <a target=”_blank” href="http://www.omdbapi.com/">OMDb API </a> limits the API calls allowed for their free tier to 1000 calls per day 
+                    Since <a target=”_blank” class = "link" href="http://www.omdbapi.com/">OMDb API </a> limits the API calls allowed for their free tier to 1000 calls per day 
                     we batched the titles for each year into lists no longer than 1000 records. These were then exported to our dta folder. 
                     An example of the file name was "titles_2016_batch_1". Each year had four batches of titles.
                 </p>
             </div>
             <div class = "col-lg-4 p-5">
-                <h1 class = "text-info">Data Exported</h1>
+                <h1>Data Exported</h1>
                 <div class = "row">
                     <div class = "col">
                         <ul>
                             <li>2016
                                 <ul>
-                                    <li><a target=”_blank” href= "Resources/data/titles_2016_batch1.csv">titles_2016_batch1</a></li>
-                                    <li><a target=”_blank” href= "Resources/data/titles_2016_batch2.csv">titles_2016_batch2</a></li>
-                                    <li><a target=”_blank” href= "Resources/data/titles_2016_batch3.csv">titles_2016_batch3</a></li>
-                                    <li><a target=”_blank” href= "Resources/data/titles_2016_batch4.csv">titles_2016_batch4</a></li>
+                                    <li><a target=”_blank” class = "link" href= "Resources/data/titles_2016_batch1.csv">titles_2016_batch1</a></li>
+                                    <li><a target=”_blank” class = "link" href= "Resources/data/titles_2016_batch2.csv">titles_2016_batch2</a></li>
+                                    <li><a target=”_blank” class = "link" href= "Resources/data/titles_2016_batch3.csv">titles_2016_batch3</a></li>
+                                    <li><a target=”_blank” class = "link" href= "Resources/data/titles_2016_batch4.csv">titles_2016_batch4</a></li>
                                 </ul>
                             </li>
                             <li>2017
                                 <ul>
-                                    <li><a target=”_blank” href= "Resources/data/titles_2017_batch1.csv">titles_2017_batch1</a></li>
-                                    <li><a target=”_blank” href= "Resources/data/titles_2017_batch2.csv">titles_2017_batch2</a></li>
-                                    <li><a target=”_blank” href= "Resources/data/titles_2017_batch3.csv">titles_2017_batch3</a></li>
-                                    <li><a target=”_blank” href= "Resources/data/titles_2017_batch4.csv">titles_2017_batch4</a></li>
+                                    <li><a target=”_blank” class = "link" href= "Resources/data/titles_2017_batch1.csv">titles_2017_batch1</a></li>
+                                    <li><a target=”_blank” class = "link" href= "Resources/data/titles_2017_batch2.csv">titles_2017_batch2</a></li>
+                                    <li><a target=”_blank” class = "link" href= "Resources/data/titles_2017_batch3.csv">titles_2017_batch3</a></li>
+                                    <li><a target=”_blank” class = "link" href= "Resources/data/titles_2017_batch4.csv">titles_2017_batch4</a></li>
                                 </ul>
                             </li>
                             <li>2018
                                 <ul>
-                                    <li><a target=”_blank” href= "Resources/data/titles_2018_batch1.csv">titles_2018_batch1</a></li>
-                                    <li><a target=”_blank” href= "Resources/data/titles_2018_batch2.csv">titles_2018_batch2</a></li>
-                                    <li><a target=”_blank” href= "Resources/data/titles_2018_batch3.csv">titles_2018_batch3</a></li>
-                                    <li><a target=”_blank” href= "Resources/data/titles_2018_batch4.csv">titles_2018_batch4</a></li>
+                                    <li><a target=”_blank” class = "link" href= "Resources/data/titles_2018_batch1.csv">titles_2018_batch1</a></li>
+                                    <li><a target=”_blank” class = "link" href= "Resources/data/titles_2018_batch2.csv">titles_2018_batch2</a></li>
+                                    <li><a target=”_blank” class = "link" href= "Resources/data/titles_2018_batch3.csv">titles_2018_batch3</a></li>
+                                    <li><a target=”_blank” class = "link" href= "Resources/data/titles_2018_batch4.csv">titles_2018_batch4</a></li>
                                 </ul>
                             </li>
                         </ul>
