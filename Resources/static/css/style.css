@@ -34,6 +34,7 @@ h1 {
 /* Position the image container (needed to position the left and right arrows) */
 #images-container {
   position: relative;
+  background-color: white;
 }
 
 /* Hide the images by default */
@@ -41,6 +42,9 @@ h1 {
   display: none;
 }
 
+.center{
+  margin:auto;
+}
 /* Add a pointer when hovering over the thumbnail images */
 .cursor {
   cursor: pointer;
@@ -90,6 +94,7 @@ h1 {
   background-color: #222;
   padding: 2px 16px;
   color: white;
+  width: 100%;
 }
 
 .row:after {
