@@ -23,6 +23,18 @@ h1 {
 .nav-color{background:#3CB371;}
 }
 
+@media (min-width:993px){
+  .logos{
+    margin-top:20px;
+  }
+  }
+@media (max-width:992px){
+  .logos{
+    width: 200px;
+    margin-bottom: 10px;
+  }
+  }
+
 .container {
   margin-bottom: 40px;
 }
