@@ -14,8 +14,12 @@ body {
 .link:hover { color: #20B2AA; }
 
 h1 {
-  color: #2E8B57
+  color: #2E8B57;
 }
+.title{
+  color: #2E8B57;
+}
+
 .nav-color{
   background:white;}
 
