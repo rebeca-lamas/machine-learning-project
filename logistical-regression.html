@@ -65,6 +65,15 @@
                     Logistic regression from sklearn was used to create the model. 
                     It had a training score of 0.9170 and a testing score of 0.9026 for 
                     determining if a movie was in the top 20 for box office.
+
+                    The logistical model is incredibly difficult to visualize when so many
+                    variables are in play. After several shortcomings when attempting decision
+                    boundry graphs and accuray models (AUC/DUC) a realization was made. The model
+                    we produced contained far too many dummy and categorical variables to
+                    make sense of graphically. The only solution graphically was to convert all
+                    y_train outcomes as probabilities and then graph them with a scatter plot. 
+                    Even then we would not have been able to produce a sigmoid line function
+                    over top of the scatter unless immense time was alotted. 
                 </p>
             </div>
         </div>
