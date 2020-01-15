@@ -51,37 +51,44 @@
             <div class = "col-lg-8 border-right p-5">
                 <h1>Data Cleaning</h1>
                 <p>
-                    The four batches of data for a single year were imported and then combined into a single 
-                    dataframe. Any movies that were not released in the United States was dropped. If it had 
-                    been released in multiple counties those values were kept as long as the United States was 
-                    included in them. Any movies that did not have box office information were dropped from our 
-                    data set. The dataframe was then filtered so that each row had at least seven features that 
-                    were not null. At this point the dataframe was exported as compiled_2016_data to a csv so 
-                    that if we needed to start from this point later we could. Though we continued from this point 
-                    to transform the data to the format we needed for out models. 
+                    The four batches of data for a single year were imported and then combined into a 
+                    single data frame. Any movies that were not released in the United States was dropped. 
+                    If it had been released in multiple countries those values were kept as long as the 
+                    United States was included in them. Any movies that did not have box office 
+                    information were dropped from our data set as well. The data frame was then 
+                    filtered so that each row had at least seven features that were not null. At this 
+                    point the data frame was exported as cleaned_2016_data to a csv so that if we 
+                    needed to start from this point later we could. After the data was cleaned, we continued 
+                    from this point to transform the data to the format we needed for out models.
                 </p>
                 <h5>Multiple Linear Regression Cleaning</h5>
                 <p>
-                    Next we transformed out dataframe to the format we would need for it to be for our models. 
-                    The columns were filtered so that it included only: title, box_office, country, genre, production, 
-                    rating, and runtime. Next country was transformed from a list of countries to a count of the number of 
-                    countries where it was released. Many movies had multiple genres listed; thus we also transformed it 
-                    from a list of genres to a count of the number of genres. Rating had values of 'Not Rated' as well as 'Unrated'. 
-                    We determined these were the same, and thus replaced all 'Not Rated' values with 'Unrated'. Any 
-                    na values in the rating column were filled with 'Unrated'. Runtime had 'min' included with the value and it 
-                    was transformed so that it was only an integer and any na values were replaced with 0. Any null values for production 
-                    were filled with 'NaN'. Box office was transformed into an integer and various characters were removed. 
-                    A year column was added and the value was set to 2016 for the 2016 data and 2017 for when 2017 was cleaned. 
-                    This will enable us to filter by year later when it is time to model. This dataframe was exported as a CSV 
-                    called 'train_data_2016' and for 2017 it was called 'test_data_2017' since 2016 will be used to train and 
-                    2017 will be used to test.
+                    First the columns were filtered so that it included only: title, box_office, 
+                    country, genre, production, rating, and runtime. Next we had to transform our 
+                    data so that all of the features were numerical values. Country contained 
+                    all of the countries a movie was released in and genre contained all of the 
+                    genres it was categorized as. Both of these features were transformed to 
+                    counts of the respective values. Rating had values of 'Not Rated' as well as 
+                    'Unrated'. We determined these were the same, and thus replaced all 'Not Rated' 
+                    values with 'Unrated'. As well any na values in the rating column were filled 
+                    with 'Unrated'. Runtime had 'min' included with the value and it was transformed 
+                    so that it was only an integer and any na values were replaced with 0. Any null 
+                    values for production were filled with 'NaN'. Box office was transformed into an 
+                    integer by removing dollar signs and commas. A year column was added and the 
+                    value was set to based on the year it represented. This will enable us to filter 
+                    by year later when it is time to model. This dataframe was exported as a CSV 
+                    called 'train_data_2016' and for 2017 it was called 'test_data_2017' since 2016 
+                    will be used to train and 2017 will be used to test.
                 </p>
                 <h5>Logistical Regression Cleaning</h5>
-                <p>The Logistical Regression model followed all of the same cleaning as above but needed to go one step further. Currently 
-                    our target of box office is not a categorical data, but continuous. Thus we sorted the dataframe by ascending for box 
-                    office. Then we set the top two box office's to a value of 1 and the rest were set to 0. This dataframe was 
-                    exported as a CSV called 'train.log_data_2016' and for 2017 it was called 'test.log_data_2017' since 2016 will be used to train and 
-                    2017 will be used to test.        
+                <p>
+                    The Logistical Regression model followed all of the same cleaning as above 
+                    but needed to go one step further. Currently our target of box office is 
+                    not categorical data, but rather is continuous. Thus we sorted the data frame 
+                    by ascending for box office. Then we set the top twenty box offices to a 
+                    value of 1 and the rest were set to 0. This dataframe was exported as a CSV 
+                    called 'train.log_data_2016' and for 2017 it was called 'test.log_data_2017' 
+                    since 2016 will be used to train and 2017 will be used to test.       
                 </p>
             </div>
             <div class = "col-lg-4 p-5">
@@ -92,6 +99,10 @@
                             <li><a target=”_blank” class = "link" href= "Resources/data/cleaned_2016_data.csv">cleaned_2016_data</a></li>
                             <li><a target=”_blank” class = "link" href= "Resources/data/cleaned_2017_data.csv">cleaned_2017_data</a></li>
                             <li><a target=”_blank” class = "link" href= "Resources/data/cleaned_2018_data.csv">cleaned_2018_data</a></li>
+                            <li><a target=”_blank” class = "link" href= "Resources/data/train_data_2016.csv">cleaned_2018_data</a></li>
+                            <li><a target=”_blank” class = "link" href= "Resources/data/test_data_2017.csv">cleaned_2018_data</a></li>
+                            <li><a target=”_blank” class = "link" href= "Resources/data/train.log_data_2016.csv">cleaned_2018_data</a></li>
+                            <li><a target=”_blank” class = "link" href= "Resources/data/test.log_data_2017.csv">cleaned_2018_data</a></li>
                         </ul>
                     </div>
                 </div>
