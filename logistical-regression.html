@@ -51,14 +51,20 @@
             <div class = "col p-5">
                 <h1>Logistical Regression</h1>
                 <p>
-                    The logistical regression model uses the following features to try and predict the continuous target of 
-                    box office: country, genre, runtime, production and rating. The features need to be numerical values, thus we 
-                    had to transform production and rating. We combined the 2016 and 2017 data sets into one dataframe so that we could 
-                    one-hot encode them with the pandas function get_dummies. The years had to be combined before one-hot encoding to 
-                    ensure that the test and train data sets had the same number of features. After one-hot encoding these features, the 
-                    dataframe was filtered on years so that we can train the model on the 2016 set and test the model on the 2017 set. 
-                    Logistic regression from sklearn was used to create the model. It had a training score of 0.9170 and a testing score of 
-                    0.9026 for determining if a movie was in the top 20 for box office.
+                    The logistical regression model predicts the top 20 box office 
+                    movies (categorical data) for the year using the following 
+                    features: country, genre, runtime, production and rating. The 
+                    features need to be numerical values, thus we had to transform 
+                    production and rating. We combined the 2016 and 2017 data sets 
+                    into one dataframe so that we could one-hot encode them with 
+                    the pandas function get_dummies. The years had to be combined 
+                    before one-hot encoding to ensure that the test and train data 
+                    sets had the same number of features. After one-hot encoding these 
+                    features, the data frame was filtered on years so that we can 
+                    train the model on the 2016 set and test the model on the 2017 set. 
+                    Logistic regression from sklearn was used to create the model. 
+                    It had a training score of 0.9170 and a testing score of 0.9026 for 
+                    determining if a movie was in the top 20 for box office.
                 </p>
             </div>
         </div>
