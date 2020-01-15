@@ -49,40 +49,42 @@
     <div class="container">
         <div class = "row bg-white mt-5">
             <div class = "col-lg-9 border-right p-5">
-                <h1>Driving Question</h1>
+                <h1>Driving Questions</h1>
                 <h5>Can machine learning predict the box office for a movie being released next year?</h5>
                 <p> 
                     At the end of the day, whether how much money a movie makes is a large factor in whether it will 
                     be deemed successful or not. A model that could predict its box office amount would be extremely 
                     useful to movie franchises.
                 </p>
-                <h5>Can it predict if it is in the top ten?</h5>
+                <h5>Can machine learning predict if a movie will be in the top 20 for the year?</h5>
                 <p>
-                    Predicting an exact box office can be challenging and likely would not have a very accurate model. 
-                    But do we care more about know the exact dollar amount of the movie's box office, or do we care more 
-                    about if it is in the top 20 movies for box office for the year? Changing out questioin to a categorical 
-                    question could lead to a more accurate model. 
+                    Predicting an exact box office can be challenging since it is continuous data. Changing our 
+                    question to a categorical versus continuous could prove just as insightful and potentially 
+                    a more accurate model.  
                 </p>
                 <h5>Project Overview</h5>
                 <p>
-                    Originally, we wanted to predict this for movies being realeased in 2020. Though as we began 
-                    to dive into the data we realized there was not enough information made public for 2020 movies. 
-                    We began to look at previous years to find the most recent years that had enough data to make 
-                    a meaningful model. The OMDb API was used to compile our datasets. To make OMDb API calls we 
-                    needed to have a complete list of the movies for a given year that were released in the 
-                    United States. We found lists that users created on IMDB that provided this information. 
-                    These lists were webscraped using python and beautiful soup, then exported as CSVs. OMDb has 
-                    a max of 1000 API calls per day for their free tier. Thus we split our titles for 2016 and 2017 
-                    into 4 batches that were no longer than 1000 records. Then each list was iterated through and API 
-                    calls were made. The information was transformed and exported as CSVs. Now we had four files of data 
-                    for 2016, and four files of data for 2017. Then the CSVs were compiled so that 2016 data was contained 
-                    in one file. Once our data was compiled into their respective year, it was time to clean our data and 
-                    transform it into the form we needed for our models. Once transformed these were exported as train_data_2016
-                    and test_data_2017. A logistical regression model was created to answer our categorical question of is the 
-                    movie going to be in the top 20 for the year. A multiple linear regression model was created to answer our 
-                    continuous question of can we predict the box office. After creating our two models we began to examine the 
-                    advantages and disadvantages of one model over another. This is shown in our comparision page. Throughout 
-                    our project journey, we have found limitations and next steps we would like to take next.
+                    Originally, we wanted to predict the box office for movies being released in 2020, 
+                    though as we dove into the data we realized there was not enough public information 
+                    to create a meaningful model. We began to look at previous years that contained more 
+                    complete information. We settled on using 2016 as our train data set and 2017 as our 
+                    test data set for our model. 
+                </p>
+                <p>
+                    There were three phases to creating the necessary datasets to run our models. 
+                    We began by web scraping to create comprehensive lists of movies released each year. 
+                    Next data was compiled through API calls to the OMDb API. Finally, the data was cleaned 
+                    and transformed to meet the needs of our models. 
+                </p>
+                <p>
+                    A logistical regression model was created to answer our categorical question of 
+                    is the movie going to be in the top 20 for the year. A multiple linear regression 
+                    model was created to answer our continuous question of can we predict the box office. 
+                    After creating our two models we began to examine the advantages and disadvantages of 
+                    one model over another. This is shown in our comparison page. 
+                </p>
+                <p>
+                    Throughout our journey, we have found limitations that must be acknowledged and next steps that we would like to take.
                 </p>
                 </div>
                 <div class = "col-lg-3 pt-5 px-5">
