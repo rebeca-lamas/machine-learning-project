@@ -19,7 +19,7 @@ This project use machine learning to predict the box office success of movies.
   * one-hot encoded rating and production companies (must have all of data combined at this point to ensure the same number of features later).
 
 # Multiple Linear Regression Model
-Linear regression from sklearn was used. We trained on 2016 and tested on 2017.
+Linear regression from sklearn was used. We trained on 2016 and tested on 2017. It had a training score of 0.6195 and a testing score of 0.4431. Such a low test and train score can be attributed a lack of financial data such as production budget, marketing budget etc.
 
 # Logistical Regression Model
-Logistic regression from sklearn was used to create the model. Again we trained on 2016 and tested on 2017.
+Logistic regression from sklearn was used to create the model. Again we trained on 2016 and tested on 2017. It had a training score of 0.9170 and a testing score of 0.9026 for determining if a movie was in the top 20 for box office.
