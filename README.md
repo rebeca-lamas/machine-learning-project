@@ -12,11 +12,11 @@ This project use machine learning to predict the box office success of movies.
   * Dropped values that did not have data for budget.
   * Dropped movies not released in the United States.
   * Converted countries to a count of countries where movie was released.
-* Converted genre to a count of genres it was categorized as.
-* Filtered so that each row had at least seven features that were not null. 
-* Standardized unrated and not rated for genre.
-* converted runtime to an integer.
-* one-hot encoded rating and production companies (must have all of data combined at this point to ensure the same number of features later).
+  * Converted genre to a count of genres it was categorized as.
+  * Filtered so that each row had at least seven features that were not null. 
+  * Standardized unrated and not rated for genre.
+  * converted runtime to an integer.
+  * one-hot encoded rating and production companies (must have all of data combined at this point to ensure the same number of features later).
 
 # Multiple Linear Regression Model
 Linear regression from sklearn was used. We trained on 2016 and tested on 2017.
