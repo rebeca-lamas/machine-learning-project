@@ -1,5 +1,5 @@
 # Machine Learning Project
-This project use machine learning to predict the box office success of movies.
+This project use machine learning to predict the box office success of movies. A more detailed analysis of our project can be found [here](https://rebeca-lamas.github.io/machine-learning-project/index.html).
 
 ## Driving Questions
 1.  Can machine learning predict the box office for a movie being released next year? (Multiple linear regression)
