@@ -9,9 +9,9 @@ This project use machine learning to predict the box office success of movies.
 * Used pandas, and beautiful soup to web scraping creating comprehensive lists of movies released each year.
 * Compiled data through API calls to the OMDb API.
 * Data was cleaned and transformed to meet the needs of our models (logistical regression and multiple linear regression).
-* Dropped values that did not have data for budget.
-* Dropped movies not released in the United States.
-* Converted countries to a count of countries where movie was released.
+  * Dropped values that did not have data for budget.
+  * Dropped movies not released in the United States.
+  * Converted countries to a count of countries where movie was released.
 * Converted genre to a count of genres it was categorized as.
 * Filtered so that each row had at least seven features that were not null. 
 * Standardized unrated and not rated for genre.
