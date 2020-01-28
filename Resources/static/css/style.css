@@ -38,6 +38,10 @@ h1 {
 @media (max-width:600px){
 .nav-color{background:#3CB371;}
 .title{font-size: 40px;}
+.logos{
+  margin: 5px;
+  width: 100%;
+}
 }
 
 
@@ -51,20 +55,22 @@ h1 {
 
 @media screen and (min-width: 600px) and (max-width:768px){
     .title{font-size: 40px;}
+    .logos{
+      margin: 5px;
+      width: 100%;
+    }
     }
 
 @media (min-width:993px){
   .logos{
-    margin-top:10px;
-    margin-bottom: 10px;
+    margin: 15px;
     width: 100%;
   }
   }
 @media (max-width:992px){
   .logos{
-    width: 200px;
-    margin-bottom: 10px;
-    width: 50%;
+    margin: 15px;
+    width: 45%;
   }
   }
 
