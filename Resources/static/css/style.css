@@ -41,7 +41,7 @@ h1 {
     .logos{
       margin: 5px;
       width: 100px;
-      height: 66px;
+      height: auto;
     } 
   }
   
@@ -59,7 +59,7 @@ h1 {
     .logos{
       margin: 5px;
       width: 219px;
-      height: 127px;
+      height: auto;
     }
   }
   
@@ -68,7 +68,7 @@ h1 {
     .logos{
       margin: 5px;
       width: 219px;
-      height: 127px;
+      height: auto;
     }
   }
   
@@ -76,7 +76,7 @@ h1 {
     .logos{
       margin: 5px;
       width: 219px;
-      height: 127px;
+      height: auto;
     }
   }
 
