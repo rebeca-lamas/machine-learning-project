@@ -1,0 +1,261 @@
+title,box_office,country,genre,production,rating,runtime,year
+Iron Man 3,1,1,3,Walt Disney Pictures,PG-13,130,2013
+Frozen,1,1,6,Walt Disney Pictures,PG,102,2013
+Despicable Me 2,1,3,6,Universal Pictures,PG,98,2013
+The Hunger Games: Catching Fire,1,1,4,Lionsgate Films,PG-13,146,2013
+Man of Steel,1,2,3,Warner Bros. Pictures,PG-13,143,2013
+The Gravity,1,1,1,Warner Bros. Pictures,Unrated,75,2013
+Gravity,1,2,3,Warner Bros. Pictures,PG-13,91,2013
+Monsters University,1,1,5,Walt Disney Pictures,G,104,2013
+Fast & Furious 6,1,4,3,Universal Pictures,PG-13,130,2013
+Oz the Great and Powerful,1,1,3,Walt Disney Pictures,PG,130,2013
+Star Trek Into Darkness,1,1,3,Paramount,PG-13,132,2013
+Thor: The Dark World,1,1,3,Walt Disney Pictures,PG-13,112,2013
+World War Z,1,3,4,Paramount Pictures,PG-13,116,2013
+The Croods,1,1,6,20th Century Fox,PG,98,2013
+The Hobbit: The Desolation of Smaug,1,2,2,Warner Bros.,PG-13,161,2013
+The Heat,1,1,3,20th Century Fox,R,117,2013
+We're the Millers,1,2,2,Warner Bros. Pictures,R,110,2013
+The Great Gatsby,1,2,2,Warner Bros. Pictures,PG-13,143,2013
+The Conjuring,1,1,3,Warner Bros. Pictures,R,112,2013
+Identity Thief,1,1,3,Universal Pictures,R,111,2013
+The Wolverine,0,2,3,20th Century Fox,PG-13,126,2013
+Grown Ups 2,0,1,1,Sony Pictures,PG-13,101,2013
+G.I. Joe: Retaliation,0,1,4,Paramount Pictures,PG-13,110,2013
+Cloudy with a Chance of Meatballs 2,0,1,6,Sony Pictures,PG,95,2013
+Now You See Me,0,2,3,Lionsgate Films,PG-13,115,2013
+Lee Daniels' The Butler,0,1,2,The Weinstein Company,PG-13,132,2013
+The Hangover Part III,0,1,1,Warner Bros. Pictures,R,100,2013
+Epic,0,1,6,Twentieth Century Fox,PG,102,2013
+Captain Phillips,0,1,4,Sony Pictures,PG-13,134,2013
+Pacific Rim,0,1,3,Warner Bros. Pictures,PG-13,131,2013
+American Hustle,0,1,2,Sony Pictures,R,138,2013
+Olympus Has Fallen,0,1,2,FilmDistrict,R,119,2013
+Lone Survivor,0,1,4,Universal Studios,R,121,2013
+This Is the End,0,1,1,Sony Pictures,R,107,2013
+42,0,1,3,Warner Bros. Pictures,PG-13,128,2013
+The Wolf of Wall Street,0,1,3,Paramount Studios,R,180,2013
+Elysium,0,1,3,TriStar Pictures,R,109,2013
+The Lone Ranger,0,1,6,Walt Disney Pictures,PG-13,150,2013
+Oblivion,0,1,3,Universal Pictures,PG-13,124,2013
+Bad Grandpa,0,1,1,Paramount Pictures,R,92,2013
+Turbo,0,1,6,DreamWorks Animation,PG,96,2013
+Anchorman 2: The Legend Continues,0,1,1,Paramount Pictures,PG-13,119,2013
+2 Guns,0,1,3,Universal Pictures,R,109,2013
+White House Down,0,1,3,Sony Pictures,PG-13,131,2013
+Insidious: Chapter 2,0,2,3,FilmDistrict,PG-13,106,2013
+Planes,0,1,4,Walt Disney Pictures,PG,91,2013
+Safe Haven,0,1,3,Relativity Media,PG-13,115,2013
+The Smurfs 2,0,4,5,Sony Pictures,PG,105,2013
+Percy Jackson: Sea of Monsters,0,1,4,20th Century Fox,PG,106,2013
+A Good Day to Die Hard,0,3,2,20th Century Fox,R,98,2013
+Warm Bodies,0,2,3,Lionsgate Films,PG-13,98,2013
+The Purge,0,2,2,Universal Pictures,R,85,2013
+Ender's Game,0,1,4,Summit Entertainment,PG-13,114,2013
+Prisoners,0,1,4,Warner Bros.,R,153,2013
+After Earth,0,1,6,Sony Pictures,PG-13,100,2013
+Hansel & Gretel: Witch Hunters,0,2,3,Paramount Pictures/MGM,R,88,2013
+Escape from Planet Earth,0,2,5,The Weinstein Co.,PG,89,2013
+Evil Dead,0,1,3,TriStar Pictures,R,91,2013
+Saving Mr. Banks,0,3,3,Walt Disney Pictures,PG-13,125,2013
+RED 2,0,3,4,Lionsgate Films,PG-13,116,2013
+A Madea Christmas,0,1,3,Lionsgate,PG-13,100,2013
+Temptation: Confessions of a Marriage Counselor,0,1,2,Lionsgate Films,PG-13,111,2013
+Last Vegas,0,1,2,CBS Films,PG-13,105,2013
+12 Years a Slave,0,2,3,Fox Searchlight,R,134,2013
+Pain & Gain,0,1,4,Paramount Studios,R,129,2013
+Free Birds,0,1,5,Relativity Media,PG,91,2013
+Gangster Squad,0,1,4,Warner Bros.,R,113,2013
+The Internship,0,1,1,20th Century Fox,PG-13,119,2013
+Snitch,0,3,3,Lionsgate/Summit Entertainment,PG-13,112,2013
+Riddick,0,2,4,Universal Classics,R,119,2013
+The Family,0,1,3,Relativity Media,Unrated,152,2013
+The Family,0,2,3,Relativity Media,R,111,2013
+Texas Chainsaw 3D,0,1,2,Lionsgate Films,R,92,2013
+R.I.P.D.,0,1,4,Universal Pictures,PG-13,96,2013
+The World's End,0,3,3,Focus Features,R,109,2013
+The Secret Life of Walter Mitty,0,2,4,20th Century Fox,PG,114,2013
+A Haunted House,0,1,2,Open Road Films,R,86,2013
+Side Effects,0,1,4,Open Road Films,R,106,2013
+Scary Movie 5,0,1,1,The Weinstein Company,PG-13,86,2013
+The Mortal Instruments: City of Bones,0,4,5,Sony Pictures,PG-13,130,2013
+Delivery Man,0,3,2,Walt Disney Pictures,PG-13,105,2013
+August: Osage County,0,1,2,The Weinstein Company,R,121,2013
+Kick-Ass 2,0,2,5,Universal Pictures,R,103,2013
+Carrie,0,1,2,Sony Pictures,R,100,2013
+The Host,0,2,6,Open Road Films,PG-13,125,2013
+21 & Over,0,1,1,Relativity Media,R,93,2013
+Dallas Buyers Club,0,1,2,Focus Features,R,117,2013
+Walking with Dinosaurs 3D,0,3,3,20th Century Fox,PG,87,2013
+The Incredible Burt Wonderstone,0,1,1,Warner Bros. Pictures,PG-13,100,2013
+Rush,0,3,3,Universal Pictures,R,123,2013
+The Way Way Back,0,1,2,Fox Searchlight,PG-13,103,2013
+The Big Wedding,0,1,3,Lionsgate Films,R,89,2013
+47 Ronin,0,4,3,Universal Pictures,PG-13,128,2013
+Broken City,0,1,4,20th Century Fox,R,109,2013
+Beautiful Creatures,0,1,3,Warner Bros. Pictures,PG-13,124,2013
+Runner Runner,0,1,2,20th Century Fox,R,88,2013
+Escape Plan,0,1,2,Summit Entertainment,R,115,2013
+Admission,0,1,3,Focus Features,PG-13,107,2013
+Her,0,1,3,Warner Bros. Pictures,R,126,2013
+Parker,0,1,3,FilmDistrict,R,118,2013
+Dark Skies,0,1,3,The Weinstein Company,PG-13,97,2013
+Baggage Claim,0,1,2,Fox Searchlight,PG-13,96,2013
+Jobs,0,2,2,Open Road Films,PG-13,128,2013
+The Last Exorcism Part II,0,2,2,CBS Films,PG-13,88,2013
+Grudge Match,0,1,3,Warner Bros. Pictures,PG-13,113,2013
+The Counselor,0,2,3,Fox Films,R,117,2013
+Labor Day,0,1,2,Paramount Pictures,PG-13,111,2013
+Homefront,0,1,2,Open Road Films,R,100,2013
+Homefront,0,1,1,Open Road Films,NOT RATED,111,2013
+Begin Again,0,1,4,The Weinstein Company,R,104,2013
+The Last Stand,0,1,2,Lionsgate Films,R,107,2013
+Nebraska,0,1,3,Paramount Pictures,R,115,2013
+Fruitvale Station,0,1,4,The Weinstein Company,R,85,2013
+Dead Man Down,0,1,4,FilmDistrict,R,118,2013
+Getaway,0,2,3,Warner Bros. Pictures,PG-13,90,2013
+Inside Llewyn Davis,0,3,3,CBS Films,R,104,2013
+Closed Circuit,0,2,4,Focus Features,R,96,2013
+Peeples,0,1,2,Lionsgate Films,PG-13,95,2013
+Battle of the Year,0,1,2,Sony Pictures,PG-13,110,2013
+Movie 43,0,1,1,Relativity Media,R,94,2013
+Out of the Furnace,0,2,4,Relativity Media,R,116,2013
+Before Midnight,0,2,2,Drafthouse Recommends,R,109,2013
+Promise Land,0,1,1,Focus Features,Unrated,0,2013
+The Green Inferno,0,4,2,High Top Releasing,R,100,2013
+Legends of Oz: Dorothy's Return,0,2,5,Clarius Entertainment,PG,88,2013
+Machete Kills,0,2,3,Open Road,R,107,2013
+The Bling Ring,0,5,3,A24 Films,R,90,2013
+Paranoia,0,3,2,Relativity Media,PG-13,106,2013
+Black Nativity,0,1,4,Fox Searchlight,PG,93,2013
+Trance,0,3,4,20th Century Fox,R,101,2013
+All Is Lost,0,1,2,Lionsgate/Roadside Attractions,PG-13,106,2013
+The Lunchbox,0,5,2,Sony Pictures Classics,PG,104,2013
+The To Do List,0,1,2,CBS Films,R,104,2013
+The Fifth Estate,0,3,4,Walt Disney Pictures,R,128,2013
+Fading Gigolo,0,1,1,Millenium Entertainment,R,90,2013
+Home Run,0,1,2,Samuel Goldwyn Films,PG-13,113,2013
+Metallica Through the Never,0,1,1,Picturehouse Films,R,93,2013
+Grace Unplugged,0,1,2,Roadside Attractions,PG,102,2013
+I'm in Love with a Church Girl,0,1,3,High Top Releasing,PG,118,2013
+Under the Skin,0,3,4,A24,R,108,2013
+The Christmas Candle,0,2,2,Echolight Studios,PG,100,2013
+Austenland,0,2,2,Sony Pictures Classics,PG-13,97,2013
+The Oscar Nominated Short Films 2013: Live Action,0,5,1,Magnolia/Shorts International,Unrated,115,2013
+In a World...,0,1,1,Roadside Attractions,R,93,2013
+Stoker,0,2,2,Fox Searchlight Pictures,R,99,2013
+Behind the Candelabra,0,1,4,HBO Films,TV-MA,118,2013
+The East,0,2,3,Fox Searchlight Pictures,PG-13,116,2013
+Locke,0,2,1,A24 Films,R,85,2013
+The Ultimate Life,0,1,2,Hightop Releasing,PG,105,2013
+One Chance,0,2,4,The Weinstein Company,PG-13,103,2013
+The Immigrant,0,1,2,The Weinstein Company,R,120,2013
+The Kings of Summer,0,1,3,CBS Films,R,95,2013
+Oldboy,0,1,4,FilmDistrict,R,104,2013
+Repentance,0,1,3,Lionsgate,R,90,2013
+Romeo and Juliet,0,2,3,Relativity Media,Unrated,93,2013
+Phantom,0,1,4,RCR Distribution,R,98,2013
+Wish You Were Here,0,1,1,Entertainment One,Unrated,85,2013
+Only God Forgives,0,5,3,Radius-TWC,R,90,2013
+Kill Your Darlings,0,1,4,Sony Pictures Classics,R,104,2013
+Alone Yet Not Alone,0,1,5,Hammond Entertainment,PG-13,103,2013
+Parkland,0,1,4,Exclusive Releasing,PG-13,93,2013
+Third Person,0,5,2,Sony Pictures Classics,R,137,2013
+Nymphomaniac: Vol. I,0,7,1,Magnolia Pictures,Unrated,117,2013
+Horns,0,2,6,Radius-TWC,R,120,2013
+The Inevitable Defeat of Mister & Pete,0,1,1,Lionsgate Films,R,108,2013
+Upstream Color,0,1,2,Independent Pictures/Metrodome Dist.,Unrated,96,2013
+Palo Alto,0,1,1,Tribeca Film,R,100,2013
+Walking with the Enemy,0,4,5,Liberty Studios,PG-13,124,2013
+Not Today,0,1,1,Freestyle Releasing,PG-13,118,2013
+In Secret,0,3,3,Roadside Attractions,R,107,2013
+Lovelace,0,1,2,Radius-TWC,R,93,2013
+Innocence,0,1,5,Abramorama Entertainment,PG-13,96,2013
+Life of Crime,0,1,2,Roadside Atrractions,R,98,2013
+Joe,0,1,2,Roadside Attractions,R,117,2013
+Camp,0,1,1,Freestyle Releasing,PG-13,109,2013
+Prince Avalanche,0,1,2,Magnolia Pictures,R,94,2013
+Ain't Them Bodies Saints,0,1,3,IFC Films,R,96,2013
+Drinking Buddies,0,1,3,Magnolia Pictures,R,90,2013
+The Face of Love,0,1,3,IFC Films,PG-13,92,2013
+Felony,0,2,3,Gravitas Ventures,TV-MA,105,2013
+Afternoon Delight,0,1,2,The Film Arcade,R,98,2013
+Copperhead,0,1,1,The Film Collective,PG-13,120,2013
+Escape from Tomorrow,0,1,4,FilmBuff,Unrated,90,2013
+InAPPropriate Comedy,0,1,1,Freestyle Releasing,R,83,2013
+Mother of George,0,2,1,Oscilloscope Pictures,R,107,2013
+Redwood Highway,0,1,1,Monterey Media,PG-13,90,2013
+Europa Report,0,1,4,Magnolia Pictures,PG-13,90,2013
+A.C.O.D.,0,1,1,The Film Arcade,R,88,2013
+Devil's Knot,0,1,4,RLJ/Image Entertainment,Unrated,114,2013
+Make Your Move,0,2,3,FilmDisctrict,PG-13,110,2013
+Afflicted,0,2,3,CBS Films,R,85,2013
+Computer Chess,0,1,1,Kino Lorber,Unrated,92,2013
+The Investigator,0,1,3,Gabriel&#39;s Messenger Films,PG-13,101,2013
+Blue Caprice,0,1,3,IFC Films,R,93,2013
+The Frozen Ground,0,1,3,The Film Arcade,R,105,2013
+Seasons of Gray,0,1,1,Rocky Mountain Pictures,PG-13,90,2013
+Man of Tai Chi,0,3,2,Radius-TWC,R,105,2013
+The English Teacher,0,1,2,Cinedigm,R,93,2013
+King's Faith,0,1,1,Independent Pictures,PG-13,108,2013
+Max Rose,0,1,1,Paladin,Unrated,83,2013
+Go for Sisters,0,1,3,Variance Films,Unrated,123,2013
+Breathe In,0,1,2,Cohen Media Group,R,98,2013
+C.O.G.,0,1,2,Screen Media Ventures,R,88,2013
+We Are What We Are,0,2,3,Entertainment One,R,105,2013
+At Middleton,0,1,2,Anchor Bay and Freestyle Releasing,R,99,2013
+The Retrieval,0,1,3,Variance Films,R,92,2013
+A Master Builder,0,1,1,Abramorama Entertainment,Unrated,130,2013
+Decoding Annie Parker,0,1,1,Entertainment One,R,91,2013
+Touchy Feely,0,1,1,Magnolia Pictures,R,89,2013
+Big Sur,0,1,2,Ketchup Entertainment,R,81,2013
+Underdogs,0,1,3,Freestyle Releasing,PG,102,2013
+The Canyons,0,1,2,IFC Films,R,99,2013
+It Felt Like Love,0,1,1,Varience Films,Unrated,82,2013
+Blood Ties,0,2,4,Roadside Attractions,R,127,2013
+Beneath the Harvest Sky,0,1,3,Tribeca Film,Unrated,116,2013
+Kill Season,0,1,2,Milennium Entertainment,Unrated,0,2013
+Killing Season,0,3,3,Milennium Entertainment,R,91,2013
+Interior. Leather Bar.,0,1,1,Strand Releasing,Unrated,60,2013
+Savannah,0,1,4,Ketchup Entertainment,PG-13,101,2013
+Redemption,0,1,3,Roadside Attractions,Unrated,115,2013
+Redemption,0,2,3,Roadside Attractions,R,100,2013
+Redemption,0,1,3,Roadside Attractions,Unrated,106,2013
+Filth,0,5,3,Magnet Releasing,R,97,2013
+I Used to Be Darker,0,1,2,Strand Releasing,Unrated,89,2013
+V/H/S/2,0,3,2,Magnet Releasing,R,96,2013
+Adult World,0,1,2,IFC Films,R,97,2013
+The Power of Few,0,1,5,Steelyard Pictures,R,96,2013
+Dealin' with Idiots,0,1,1,IFC Films,Unrated,88,2013
+As I Lay Dying,0,1,1,Millennium Entertainment,R,110,2013
+The Pretty One,0,1,2,Dada Films,R,90,2013
+Hank and Asha,0,2,2,FilmRise,Unrated,73,2013
+Love and Honor,0,1,3,IFC Films,PG-13,100,2013
+Nothing Left to Fear,0,1,1,Anchor Bay Entertainment,R,100,2013
+The Happy Sad,0,1,2,Miasma Films,Unrated,87,2013
+Stand Clear of the Closing Doors,0,1,1,Oscilloscope Pictures,Unrated,102,2013
+Almost Human,0,1,3,IFC Films,Unrated,80,2013
+Welcome to the Punch,0,2,3,IFC Films,R,99,2013
+Hell Baby,0,1,2,Millenium Entertainment,R,98,2013
+Pawn Shop Chronicles,0,1,3,Anchor Bay Entertainment,R,112,2013
+Torn,0,2,1,Dada Films,Unrated,80,2013
+Return to Nuke 'Em High Volume 1,0,1,8,Anchor Bay Films,Unrated,85,2013
+All Is Bright,0,1,2,Anchor Bay Films,R,107,2013
+The Sacrament,0,1,2,Magnet Releasing,R,99,2013
+A Teacher,0,1,2,Oscilloscope Laboratories,Unrated,75,2013
+Revelation Road 2: The Sea of Glass and Fire,0,1,2,Freestyle Releasing,Unrated,90,2013
+Raze,0,1,3,IFC Films,R,92,2013
+Contracted,0,1,3,IFC Films,Unrated,84,2013
+Aftermath,0,1,2,Freestyle Releasing,R,84,2013
+The Pardon,0,1,1,Monterey Media,PG-13,120,2013
+Plush,0,1,4,Millennium Entertainment,R,99,2013
+Silver Circle,0,1,2,Area 23a Films,PG-13,90,2013
+Axe Giant: The Wrath of Paul Bunyan,0,1,2,Cinema Purgatorio,R,90,2013
+Pawn,0,1,4,Anchor Bay Films,R,88,2013
+The Happy House,0,1,2,First Run Features,Unrated,81,2013
+Jake Squared,0,1,2,Freestyle Releasing,R,100,2013
+Last Flight of the Champion,0,1,3,High Top Releasing,PG,88,2013
+The Package,0,2,3,Anchor Bay Films,R,95,2013
+Syrup,0,1,3,Magnolia Pictures,R,90,2013
+I Spit on Your Grave 2,0,1,2,Anchor Bay Entertainment,R,106,2013
+A Perfect Man,0,1,2,IFC Films,R,95,2013

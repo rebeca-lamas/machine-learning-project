@@ -50,30 +50,76 @@
     <div class="container">
         <div class = "row bg-white mt-5">
             <div class = "col px-5 pt-5">
-                <h1>Multiple Linear Regression</h1>
-                <p>
-                    The multiple linear regression model uses the following features 
-                    to try and predict the continuous target of box office: country, 
-                    genre, runtime, production and rating. The features need to be 
-                    numerical values, thus we had to transform production and rating 
-                    (the only remaining non-numerical values). We combined the 2016 
-                    and 2017 data sets into one dataframe so that we could one-hot 
-                    encode them with the pandas function get_dummies. The years had to 
-                    be combined before one-hot encoding to ensure that the test and 
-                    train data sets had the same number of features. After one-hot 
-                    encoding these features, the data frame was filtered on years so 
-                    that we can train the model on the 2016 set and test the model on 
-                    the 2017 set. Linear regression from sklearn was used to create the 
-                    model. It had a training score of 0.6195 and a testing score of 0.4431.
-                </p>
+                <h1 class="text-center">Visualizations</h1>
+            </div>
+        </div>
+        <div class = "row" id = "images-container">
+            <div class="mySlides center">
+                <div class="numbertext">1 / 6</div>
+                <img src="Resources/images/country_bo.png" style="width:100%">
+            </div>
+            
+            <div class="mySlides center">
+                <div class="numbertext">2 / 6</div>
+                <img src="Resources/images/genre_bo.png" style="width:100%">
+            </div>
+            
+            <div class="mySlides center">
+                <div class="numbertext">3 / 6</div>
+                <img src="Resources/images/production_bo.png" style="width:100%">
+            </div>
+            
+            <div class="mySlides center">
+                <div class="numbertext">4 / 6</div>
+                <img src="Resources/images/rating_bo.png" style="width:100%">
+            </div>
+            
+            <div class="mySlides center">
+                <div class="numbertext">5 / 6</div>
+                <img src="Resources/images/runtime_bo.png" style="width:100%">
+            </div>
+            
+            <div class="mySlides center">
+                <div class="numbertext">6 / 6</div>
+                <img src="Resources/images/residual_plot.png" style="width:100%">
+            </div>
+            <!-- Next and previous buttons -->
+            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+            
+            <!-- Image text -->
+            <div class="caption-container">
+                <p id="caption"></p>
+            </div>
+            
+            <!-- Thumbnail images -->
+            <div class="row">
+                <div class="column">
+                    <img class="demo cursor" src="Resources/images/country_bo.png" style="width:100%" onclick="currentSlide(1)" alt="Box plots illustrating the box office success in relation to the number of countries the movie was released in. The y-axis is measured in millions of dollars.">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="Resources/images/genre_bo.png" style="width:100%" onclick="currentSlide(2)" alt="A scatter plot of Genre count versus the box office success for the movie.">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="Resources/images/production_bo.png" style="width:100%" onclick="currentSlide(3)" alt="Production companies that released the most movies versus their success at the box office. The y-axis is measured in millions of dollars.">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="Resources/images/rating_bo.png" style="width:100%" onclick="currentSlide(4)" alt="Movie's success in millions of dollars (y-axis) when examining the rating of the movie.">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="Resources/images/runtime_bo.png" style="width:100%" onclick="currentSlide(5)" alt="Scatter plot illustrating the relationship between box office success in millions of dollars vs the runtime in minutes.">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="Resources/images/residual_plot.png" style="width:100%" onclick="currentSlide(6)" alt="Residual plot between the train and test sets.">
+                </div>
             </div>
         </div>
         <div class = "row bg-white p-3">
             <div class = "col">
-                <a href="data-cleaning.html" type="button" class="btn my-button btn-lg m-1 rounded">Previous</a>
+                <a href="logistical-regression.html" type="button" class="btn my-button btn-lg m-1 rounded">Previous</a>
             </div>
             <div class = "col">
-                <a href="logistical-regression.html" type="button" class="btn my-button btn-lg m-1 rounded nav-next">Next</a>
+                <a href="comparision.html" type="button" class="btn my-button btn-lg m-1 rounded nav-next">Next</a>
             </div>
         </div>
     </div>
