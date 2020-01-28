@@ -57,12 +57,14 @@ h1 {
   .logos{
     margin-top:10px;
     margin-bottom: 10px;
+    width: 100%;
   }
   }
 @media (max-width:992px){
   .logos{
     width: 200px;
     margin-bottom: 10px;
+    width: 50%;
   }
   }
 
