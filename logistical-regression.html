@@ -52,29 +52,26 @@
             <div class = "col p-5">
                 <h1>Logistical Regression</h1>
                 <p>
-                    The logistical regression model predicts the top 20 box office 
-                    movies (categorical data) for the year using the following 
-                    features: country, genre, runtime, production and rating. The 
-                    features need to be numerical values, thus we had to transform 
-                    production and rating. We combined the 2016 and 2017 data sets 
-                    into one dataframe so that we could one-hot encode them with 
-                    the pandas function get_dummies. The years had to be combined 
-                    before one-hot encoding to ensure that the test and train data 
-                    sets had the same number of features. After one-hot encoding these 
-                    features, the data frame was filtered on years so that we can 
-                    train the model on the 2016 set and test the model on the 2017 set. 
-                    Logistic regression from sklearn was used to create the model. 
-                    It had a <strong>0.9170 training score</strong> and <strong>0.9026 testing score</strong> for 
-                    determining if a movie was in the top 20 for box office.
+                    The logistical regression model predicts the top 20 movie box office gross 
+                    incomes (categorical data) for the year using the following features: country, 
+                    genre, runtime, production and rating. The features need to be numerical values, 
+                    thus we had to transform production and rating. We combined the 2016 and 2017 data 
+                    sets into one dataframe so that we could one-hot encode them with the pandas function
+                    get_dummies. The years had to be combined before one-hot encoding to ensure that the 
+                    test and train datasets had the same number of features. After one-hot encoding these 
+                    features, the dataframe was filtered by years so that we could train the model on the
+                    2016 dataset and test the model on the 2017 dataset.  Logistical regression from sklearn
+                    was used to create the model. It had a  <strong>0.9170 training score</strong> and 
+                    <strong>0.9026 testing score</strong> for determining if a movie was in the top 20 for box
+                     office gross income.
 
-                    The logistical model is incredibly difficult to visualize when so many
-                    variables are in play. After several shortcomings when attempting decision
-                    boundry graphs and accuray models (AUC/DUC) a realization was made. The model
-                    we produced contained far too many dummy and categorical variables to
-                    make sense of graphically. The only solution graphically was to convert all
-                    y_train outcomes as probabilities and then graph them with a scatter plot. 
-                    Even then we would not have been able to produce a sigmoid line function
-                    over top of the scatter unless immense time was alotted. 
+                     The logistical model is incredibly difficult to visualize when so many variables are 
+                     in play. After several shortcomings when attempting decision boundary graphs and 
+                     accuracy models (AUC/DUC), a realization was made - the model we produced contained far 
+                     too many dummy and categorical variables to make sense of graphically. The only solution 
+                     was to convert all y_train outcomes as probabilities and then graph them using a scatter 
+                     plot. Even then we would not have been able to produce a sigmoid line function over top 
+                     of the scatter plot unless immense time was allotted.
                 </p>
             </div>
         </div>

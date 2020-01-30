@@ -52,17 +52,16 @@
             <div class = "col-lg-8 border-right p-5">
                 <h1>Compiling Data</h1>
                 <p>
-                    A Jupyter notebook was created for each batch of API calls that needed to be run 
-                    so that we would not exceed our API call limit. The notebook would iterate through 
-                    the list of movie IDs to make each API call. From the result of each call, data 
-                    was extracted and added to the respective list. We extracted the following pieces 
-                    of information for each movie: title id, box office, country, genre, director, 
-                    metascore, production, rating, IMDB rating, rotten tomatoes rating, runtime, title, 
-                    type, and IMDB votes. After all the calls were finished these lists were combined 
-                    into a single data frame. Any duplicate rows were dropped. This was done in case 
-                    a title id had been repeated and a call for one movie was made twice. This data 
-                    frame was then exported as a CSV to later be cleaned and transformed. These CSVs 
-                    are attached to the right.
+                    A Jupyter notebook was created for each batch of API calls in order to not exceed 
+                    the API call limit. The notebook would iterate through the list of movie IDs to 
+                    make each API call. From the result of each call, data was extracted and added to 
+                    the respective list. We extracted the following pieces of information for each 
+                    movie: title ID, box office, country, genre, director, metascore, production, 
+                    rating, IMDB rating, rotten tomatoes rating, runtime, title, type, and IMDB votes. 
+                    After all the calls were completed, these lists were combined into a single data 
+                    frame. Any duplicate rows were dropped. This was done in case a title id had been 
+                    repeated and a call for one movie was made twice. This data frame was then exported 
+                    as a CSV to later be cleaned and transformed. These CSVs are attached to the right. 
                 </p>
             </div>
             <div class = "col-lg-4 p-5">

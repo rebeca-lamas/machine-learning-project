@@ -53,35 +53,34 @@
                 <h1>Lessons Learned</h1>
                 <h5>Limitations</h5>
                 <p>
-                    Our models are only as good as our datasets and our datasets were limited in size. 
-                    For each year we webscraped more than 3,000 titles but after eliminating those 
-                    without data for box office we were left with about 250 titles per year. This is 
-                    a large reduction in our size of data. Furthermore, when we dove into seeing how 
-                    we wanted to handle such a large gap in data, we found our box office numbers 
-                    did not match numbers we found while googling. This could be that the other 
-                    numbers online were box offices for multiple countries, or for a longer period 
-                    of time versus opening weekend numbers. Our data's accuracy is also limited to 
-                    how accurate the user was that created the list that was originally web scraped. 
-                    In web scraping a few 2015 movies were returned but had been included in the 2016 list of movies.
+                    Our models are only as good as our datasets and our datasets were limited in 
+                    size.  For each year we webscraped more than 3,000 titles, but after eliminating
+                    those without data for ‘box office’ we were left with about 250 titles per year. 
+                    This is a large reduction in our data size. Furthermore, when we further investigated 
+                    this large gap in the dataset, we found our box office numbers did not match numbers
+                    we found while researching movie-specific box office gross incomes. This could be that 
+                    the other numbers found online were box office gross incomes for multiple countries, 
+                    over a longer period of time, or only included opening weekend numbers. Our data's
+                    accuracy is also limited by the accuracy of the original webscraped data. In webscraping,
+                    a few 2015 movies were returned but had been included in the 2016 list of movies.
                 </p>
                 <p>
-                    Another limitation was in the limited API calls we were allowed. Given our 
-                    time table, we only had the time and resources to compile data for 2016-2018. 
-                    We had planned to use 2018 to validate our model but it had even less data for 
-                    box office compared to 2016 and 2017. Instead of having approximately 250 
-                    records for box office, it had about 25. With such a dramatic drop in size, we 
-                    decided it would not be meaningful to use it to validate. Hindsight we wish we 
-                    had pulled the data for 2015 instead of 2018 but we had no way of knowing that 
-                    it would have such little data for box office.
+                    Another limitation was the limited API calls we were allowed. Given our time-table, 
+                    we only had the time and resources to compile data for 2016-2018. We had planned to 
+                    use 2018 to validate our model but it had even less data for 'box office' than the 2016 
+                    and 2017 datasets. Instead of having approximately 250 records for ‘box office’, it had
+                    only 25. With such a dramatic drop in size, we decided it would not be meaningful to use
+                    the 2018 dataset to validate our model. In hindsight, we wish we had pulled the data for 
+                    2015 instead of 2018. However, we had no way of knowing that it would have such limited 
+                    data for 'box office'.
                 </p>
                 <h5>Next Steps</h5>
                 <p>
-                    Our model currently has very promising results, though we are curious 
-                    to see if it would still be as accurate with larger and more complete 
-                    data sets. Given more time, we could compile complete datasets for 2000 - 2015 
-                    thus enabling us to train and test from 2000 - 2017 versus our current scope of 2016 -2017.
-                    In addition, training and testing different models outside of linear and logistical would be 
-                    beneficial.
+                    Our current model has very promising results, though we are curious to see if it would 
+                    still be as accurate with larger and more complete data sets. Given more time, we could 
+                    compile complete datasets for 2000 – 2015, thus enabling us to train and test the model 
+                    with 2000 – 2017 data versus our current scope of 2016 -2017 data. In addition, training 
+                    and testing different models outside of linear and logistical would be beneficial.
                 </p>
                 </div>
             </div>
